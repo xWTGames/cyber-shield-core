@@ -1,0 +1,1 @@
+// Improve contract state management
