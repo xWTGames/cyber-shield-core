@@ -1,2 +1,3 @@
 // Upgrade to latest Solidity version
 // Improve contract creation process
+// Fix compatibility issues with major wallets
