@@ -1,0 +1,1 @@
+// Optimize token burn process
