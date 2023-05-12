@@ -2,3 +2,4 @@
 // Fix errors in NFT minting logic
 // Fix ERC-20 token interface bugs
 // Integrate privacy-enhancing smart contracts
+// Fix issue with multi-chain transactions
