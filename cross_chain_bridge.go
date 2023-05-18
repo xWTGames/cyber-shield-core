@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Refactor governance proposal logic
 // Integrate Chainlink VRF for randomness
+// Refactor decentralized exchange (DEX) code
