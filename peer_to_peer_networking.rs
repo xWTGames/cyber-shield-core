@@ -1,0 +1,1 @@
+// Enhance smart contract compatibility
