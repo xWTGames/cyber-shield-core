@@ -1,0 +1,1 @@
+// Refactor contract event emission
