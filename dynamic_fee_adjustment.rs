@@ -3,3 +3,4 @@
 // Fix compatibility with MetaMask
 // Refactor storage layout for better efficiency
 // Add support for cross-chain bridges
+// Refactor governance token logic
