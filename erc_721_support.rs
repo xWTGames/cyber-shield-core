@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Improve oracle data validation mechanisms
 // Integrate IPFS for storage
+// Refactor storage layout for better efficiency
