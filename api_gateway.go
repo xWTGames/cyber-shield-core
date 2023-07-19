@@ -2,3 +2,4 @@
 // Refactor contract state machine design
 // Enhance contract initialization process
 // Implement contract function batching
+// Improve DApp transaction flow
