@@ -2,3 +2,4 @@
 // Improve multi-chain transaction processing
 // Enhance gas fee management
 // Fix token transfer approval issues
+// Add support for delegation in governance
