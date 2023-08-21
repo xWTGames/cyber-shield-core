@@ -2,3 +2,4 @@
 // Add support for decentralized credit scoring
 // Implement delegation pattern
 // Fix vulnerability in decentralized finance protocols
+// Fix compatibility with MetaMask
