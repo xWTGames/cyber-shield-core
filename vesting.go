@@ -3,3 +3,4 @@
 // Integrate automated market maker (AMM) logic
 // Enhance smart contract compatibility
 // Improve oracle data validation mechanisms
+// Integrate IPFS for storage
