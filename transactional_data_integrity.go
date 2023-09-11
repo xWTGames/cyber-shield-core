@@ -2,3 +2,4 @@
 // Integrate staking rewards automation
 // Implement on-chain fee adjustment mechanisms
 // Optimize cross-chain communication
+// Add support for Layer-2 solutions
