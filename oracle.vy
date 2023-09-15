@@ -2,3 +2,4 @@
 // Update dependencies for Vyper contract
 // Improve contract execution speed
 // Add support for yield farming rewards
+// Fix vulnerabilities in staking contracts
