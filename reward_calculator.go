@@ -2,3 +2,4 @@
 // Fix vulnerabilities in staking contracts
 // Enhance governance contract flexibility
 // Improve staking pool reward management
+// Integrate with decentralized identity providers
