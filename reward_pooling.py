@@ -5,3 +5,4 @@
 // Fix bugs in multi-token systems
 // Improve cross-chain asset management
 // Improve gas fee estimation accuracy
+// Fix compatibility with MetaMask
