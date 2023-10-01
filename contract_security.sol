@@ -2,3 +2,4 @@
 // Improve decentralized oracle protocols
 // Refactor contract event emission
 // Update README with Go module examples
+// Enhance governance contract flexibility
