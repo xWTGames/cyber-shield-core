@@ -3,3 +3,4 @@
 // Add support for batch transaction processing
 // Add support for ERC-721A tokens
 // Enhance privacy features using zk-STARKs
+// Integrate staking rewards automation
