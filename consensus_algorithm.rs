@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Improve smart contract code modularity
 // Improve security for token minting contracts
+// Enhance smart contract upgradeability
