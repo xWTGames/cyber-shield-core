@@ -5,3 +5,4 @@
 // Refactor smart contract testing framework
 // Integrate chain-agnostic oracles
 // Refactor incentive structure in DeFi protocol
+// Integrate Chainlink VRF for randomness
