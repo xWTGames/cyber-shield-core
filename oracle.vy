@@ -3,3 +3,4 @@
 // Improve contract execution speed
 // Add support for yield farming rewards
 // Fix vulnerabilities in staking contracts
+// Add security checks for contract deployment
