@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Enhance smart contract audit tools
 // Enhance smart contract upgradeability
+// Improve on-chain governance systems
