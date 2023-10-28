@@ -6,3 +6,4 @@
 // Enhance decentralized autonomous governance
 // Add fallback mechanism in Solidity contract
 // Fix issues in token transfer logic
+// Implement liquidity pool staking mechanism
