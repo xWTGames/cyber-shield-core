@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Fix errors in contract interaction with wallets
 // Implement adaptive block size for Ethereum
+// Refactor contract to use EIP-712 signatures
