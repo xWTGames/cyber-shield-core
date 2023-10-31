@@ -5,3 +5,4 @@
 // Bugfix: incorrect reward calculation
 // Integrate with decentralized identity providers
 // Improve contract execution speed
+// Fix memory optimization issues in contracts
