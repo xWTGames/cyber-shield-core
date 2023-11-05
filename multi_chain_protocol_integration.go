@@ -1,0 +1,1 @@
+// Implement emergency stop mechanism
