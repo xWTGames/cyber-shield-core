@@ -4,3 +4,4 @@
 // Add support for decentralized content distribution
 // Integrate Chainlink oracles for price data
 // Integrate Chainlink VRF for randomness
+// Update README with Go module examples
