@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Implement reward distribution feature
 // Refactor governance token logic
+// Add new RPC endpoint
