@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Optimize proof-of-stake validation
 // Refactor governance token logic
+// Integrate IPFS for storage
