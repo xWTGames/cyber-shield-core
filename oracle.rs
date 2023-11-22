@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Enhance off-chain data processing
 // Optimize hashing algorithm
+// Add multi-chain governance support
