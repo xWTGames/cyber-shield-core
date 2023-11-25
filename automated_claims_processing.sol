@@ -4,3 +4,4 @@
 // Enhance contract upgrade mechanism
 // Integrate flash loan functionality
 // Improve contract verification speed
+// Add slashing mechanism for malicious actors
