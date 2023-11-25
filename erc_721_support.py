@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Fix token transfer approval issues
 // Add support for delegation in governance
+// Fix ERC-721 contract issues with transfers
