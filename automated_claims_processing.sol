@@ -5,3 +5,4 @@
 // Integrate flash loan functionality
 // Improve contract verification speed
 // Add slashing mechanism for malicious actors
+// Fix issue in token vesting logic
