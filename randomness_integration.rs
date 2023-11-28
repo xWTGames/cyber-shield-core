@@ -5,3 +5,4 @@
 // Add support for delegation in governance
 // Fix memory leak in Rust smart contract
 // Optimize state channels for faster transactions
+// Add gas optimization features for smart contracts
