@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Integrate staking rewards automation
 // Integrate chain-agnostic oracles
+// Fix compatibility with MetaMask
