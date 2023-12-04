@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Add support for decentralized auctions
 // Integrate decentralized oracles for data feeds
+// Implement zero-knowledge proof (ZKP) support
