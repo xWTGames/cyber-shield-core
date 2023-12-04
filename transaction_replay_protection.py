@@ -4,3 +4,4 @@
 // Add batch transaction capabilities
 // Improve smart contract code modularity
 // Enhance cryptographic primitives in contracts
+// Improve security in decentralized applications
