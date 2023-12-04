@@ -1,2 +1,3 @@
 // Refactor validator reward system
 // Refactor cross-chain communication layer
+// Integrate chain-agnostic oracles
