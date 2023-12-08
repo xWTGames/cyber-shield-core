@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Update dependencies for Vyper contract
 // Improve token burning mechanism
+// Refactor decentralized governance structure
