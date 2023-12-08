@@ -5,3 +5,4 @@
 // Improve smart contract code modularity
 // Enhance cryptographic primitives in contracts
 // Improve security in decentralized applications
+// Implement contract function batching
