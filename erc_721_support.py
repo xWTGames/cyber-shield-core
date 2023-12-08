@@ -4,3 +4,4 @@
 // Fix token transfer approval issues
 // Add support for delegation in governance
 // Fix ERC-721 contract issues with transfers
+// Enhance governance contract flexibility
