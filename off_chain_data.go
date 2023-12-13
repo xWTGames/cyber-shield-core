@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance security checks
 // Refactor reward pooling algorithm
+// Enhance gas fee management
