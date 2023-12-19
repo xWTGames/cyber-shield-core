@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Enhance logging for better debugging
 // Implement cross-platform contract compatibility
+// Enhance privacy features using zk-STARKs
