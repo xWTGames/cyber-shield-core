@@ -3,3 +3,4 @@
 // Optimize oracle data fetching mechanism
 // Fix vulnerabilities in staking contracts
 // Improve contract execution performance
+// Update smart contract tests
