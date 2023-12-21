@@ -4,3 +4,4 @@
 // Enhance off-chain data processing
 // Improve contract execution speed
 // Enhance security checks
+// Add support for ERC-1155 tokens
