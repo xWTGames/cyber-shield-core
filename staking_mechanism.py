@@ -7,3 +7,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize oracle data fetching mechanism
 // Fix overflow bug in token calculation
+// Enhance privacy features using zk-STARKs
