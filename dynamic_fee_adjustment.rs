@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Add support for cross-chain bridges
 // Refactor governance token logic
+// Optimize gas cost in function execution
