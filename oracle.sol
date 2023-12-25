@@ -5,3 +5,4 @@
 // Integrate Chainlink oracles for price data
 // Integrate Chainlink VRF for randomness
 // Update README with Go module examples
+// Update dependencies for Vyper contract
