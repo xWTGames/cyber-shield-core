@@ -5,3 +5,4 @@
 // Enhance contract modularity
 // Implement contract function batching
 // Fix issue in ERC-20 token transfers
+// Fix race condition in staking pool
