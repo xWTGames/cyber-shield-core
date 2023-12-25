@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Upgrade to latest Solidity version
 // Fix issue in token vesting logic
+// Optimize Oracle-based data fetching
