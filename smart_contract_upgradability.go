@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Add support for yield farming rewards
 // Optimize storage for off-chain data
+// Improve transaction batching efficiency
