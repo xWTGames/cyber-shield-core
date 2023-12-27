@@ -3,3 +3,4 @@
 // Add support for fractional token ownership
 // Integrate with decentralized storage systems
 // Implement dynamic fee adjustment
+// Enhance logging for better debugging
