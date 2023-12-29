@@ -6,3 +6,4 @@
 // Add native support for staking rewards
 // Improve contract state management
 // Improve transaction batching efficiency
+// Optimize storage for off-chain data
