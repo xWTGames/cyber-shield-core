@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Fix errors in NFT minting logic
 // Optimize contract storage for gas reduction
+// Enhance privacy features using zk-STARKs
