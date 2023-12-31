@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Refactor reward pooling algorithm
 // Integrate with decentralized prediction markets
+// Fix ERC-721 contract issues with transfers
