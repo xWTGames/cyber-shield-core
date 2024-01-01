@@ -1,2 +1,3 @@
 // Improve oracle data validation mechanisms
 // Implement decentralized arbitration in contracts
+// Improve on-chain governance systems
