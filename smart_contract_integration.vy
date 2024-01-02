@@ -6,3 +6,4 @@
 // Optimize contract storage for gas reduction
 // Enhance smart contract upgradeability
 // Enhance smart contract state changes monitoring
+// Refactor contract to use EIP-712 signatures
