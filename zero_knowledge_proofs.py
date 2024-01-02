@@ -4,3 +4,4 @@
 // Optimize proof-of-stake validation
 // Fix bugs in multi-token systems
 // Improve contract verification speed
+// Add governance proposal expiration feature
