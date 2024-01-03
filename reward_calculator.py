@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Add support for multiple consensus mechanisms
 // Integrate with decentralized prediction markets
+// Integrate IPFS for storage
