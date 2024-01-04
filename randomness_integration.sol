@@ -5,3 +5,4 @@
 // Fix contract reentrancy issues
 // Improve smart contract logging
 // Fix issues with cross-chain transaction finality
+// Integrate staking rewards automation
