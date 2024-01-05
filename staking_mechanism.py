@@ -8,3 +8,4 @@
 // Optimize oracle data fetching mechanism
 // Fix overflow bug in token calculation
 // Enhance privacy features using zk-STARKs
+// Implement liquidity pool staking mechanism
