@@ -6,3 +6,4 @@
 // Add new feature: on-chain governance
 // Add multi-sig wallet functionality
 // Improve staking logic for better rewards
+// Improve token minting flow efficiency
