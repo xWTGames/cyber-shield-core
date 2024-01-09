@@ -1,3 +1,4 @@
 // Fix data consistency issues in smart contracts
 // Improve contract state management
 // Integrate privacy-enhancing smart contracts
+// Refactor reward pooling algorithm
