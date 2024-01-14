@@ -7,3 +7,4 @@
 // Fix issues with cross-chain transaction finality
 // Integrate staking rewards automation
 // Refactor staking logic
+// Integrate with decentralized storage systems
