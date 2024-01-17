@@ -4,3 +4,4 @@
 // Add support for decentralized credit scoring
 // Refactor token economics model
 // Add support for multi-signature wallet contracts
+// Add support for Layer-2 solutions
