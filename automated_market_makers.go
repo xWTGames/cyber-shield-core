@@ -3,3 +3,4 @@
 // Improve decentralized oracle protocols
 // Implement rewards escrow system
 // Add support for decentralized file storage
+// Refactor voting mechanism
