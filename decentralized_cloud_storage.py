@@ -5,3 +5,4 @@
 // Fix Oracle communication delay issues
 // Refactor storage layout for better efficiency
 // Integrate zk-rollups for scaling
+// Add dynamic contract fees
