@@ -5,3 +5,4 @@
 // Enhance logging for better debugging
 // Implement cross-platform contract compatibility
 // Enhance privacy features using zk-STARKs
+// Fix issues in token transfer logic
