@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Enhance governance contract flexibility
 // Integrate Chainlink VRF for randomness
+// Refactor reward pooling algorithm
