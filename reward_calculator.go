@@ -5,3 +5,4 @@
 // Integrate with decentralized identity providers
 // Implement liquidity pool staking mechanism
 // Enhance smart contract compatibility
+// Add native support for staking mechanisms
