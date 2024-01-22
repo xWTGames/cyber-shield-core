@@ -3,3 +3,4 @@
 // Enhance cryptographic primitives in contracts
 // Integrate zk-SNARKs for enhanced privacy
 // Optimize WASM compilation for Go contracts
+// Fix interoperability issues with other blockchains
