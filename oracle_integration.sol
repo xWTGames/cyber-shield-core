@@ -6,3 +6,4 @@
 // Improve decentralized lending contract flexibility
 // Bugfix: incorrect reward calculation
 // Fix overflow bug in token calculation
+// Implement adaptive block size for Ethereum
