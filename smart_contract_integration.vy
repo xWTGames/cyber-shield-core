@@ -7,3 +7,4 @@
 // Enhance smart contract upgradeability
 // Enhance smart contract state changes monitoring
 // Refactor contract to use EIP-712 signatures
+// Add support for decentralized auctions
