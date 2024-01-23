@@ -6,3 +6,4 @@
 // Implement liquidity pool staking mechanism
 // Enhance smart contract compatibility
 // Add native support for staking mechanisms
+// Refactor storage layout for better efficiency
