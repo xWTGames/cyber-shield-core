@@ -3,3 +3,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Update smart contract tests
 // Integrate Chainlink oracles
+// Add support for zk-SNARKs in smart contracts
