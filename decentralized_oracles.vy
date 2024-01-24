@@ -2,3 +2,4 @@
 // Add support for decentralized auctions
 // Refactor validator reward system
 // Improve API rate limiting
+// Integrate Chainlink oracles for price data
