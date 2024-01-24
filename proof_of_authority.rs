@@ -5,3 +5,4 @@
 // Fix errors in NFT minting logic
 // Optimize contract storage for gas reduction
 // Enhance privacy features using zk-STARKs
+// Add native support for staking rewards
