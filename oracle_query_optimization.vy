@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Improve contract verification speed
 // Integrate IPFS for storage
+// Optimize contract storage for gas reduction
