@@ -4,3 +4,4 @@
 // Update smart contract tests
 // Integrate Chainlink oracles
 // Add support for zk-SNARKs in smart contracts
+// Add support for decentralized insurance protocols
