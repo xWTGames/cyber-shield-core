@@ -2,3 +2,4 @@
 // Improve staking logic for better rewards
 // Optimize token minting flow
 // Integrate staking rewards automation
+// Add batch processing for transactions
