@@ -5,3 +5,4 @@
 // Add support for Layer-2 solutions
 // Improve contract verification speed
 // Improve contract creation process
+// Add batch processing for transactions
