@@ -6,3 +6,4 @@
 // Improve contract interaction via APIs
 // Optimize contract storage for gas reduction
 // Enhance contract state verification
+// Fix governance proposal approval logic
