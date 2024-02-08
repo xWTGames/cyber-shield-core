@@ -8,3 +8,4 @@
 // Integrate staking rewards automation
 // Refactor staking logic
 // Integrate with decentralized storage systems
+// Implement price feed oracles for tokens
