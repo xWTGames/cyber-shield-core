@@ -2,3 +2,4 @@
 // Fix issue in ERC-20 token transfers
 // Fix memory optimization issues in contracts
 // Add support for decentralized auctions
+// Add native support for staking mechanisms
