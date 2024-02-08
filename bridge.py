@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Fix type mismatch in Haskell smart contract
 // Integrate IPFS for storage
+// Fix compatibility issues with major wallets
