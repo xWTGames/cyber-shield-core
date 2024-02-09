@@ -6,3 +6,4 @@
 // Optimize contract upgrade process
 // Integrate with decentralized storage systems
 // Improve decentralized identity (DID) systems
+// Add support for delegation in governance
