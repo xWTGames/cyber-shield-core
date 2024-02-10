@@ -6,3 +6,4 @@
 // Implement contract function batching
 // Fix issue in ERC-20 token transfers
 // Fix race condition in staking pool
+// Fix security vulnerability in random number generation
