@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Enhance contract upgrade mechanism
 // Implement liquidity pool staking mechanism
+// Fix issue with multi-chain transactions
