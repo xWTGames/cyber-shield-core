@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Add unit tests for staking module
 // Improve smart contract logging
+// Fix edge case in unstaking logic
