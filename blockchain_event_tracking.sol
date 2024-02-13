@@ -1,2 +1,3 @@
 // Integrate Chainlink oracles
 // Fix bug in random number generation
+// Add support for cross-chain bridges
