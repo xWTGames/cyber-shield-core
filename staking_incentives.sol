@@ -3,3 +3,4 @@
 // Code cleanup and documentation update
 // Enhance logging for better debugging
 // Implement cross-platform contract compatibility
+// Add support for multi-signature wallet contracts
