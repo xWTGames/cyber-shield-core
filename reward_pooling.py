@@ -6,3 +6,4 @@
 // Improve cross-chain asset management
 // Improve gas fee estimation accuracy
 // Fix compatibility with MetaMask
+// Improve gas fee estimation accuracy
