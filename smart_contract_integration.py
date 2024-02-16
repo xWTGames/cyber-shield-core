@@ -3,3 +3,4 @@
 // Fix compatibility issues with major wallets
 // Fix governance proposal approval logic
 // Implement delegation pattern
+// Improve decentralized exchange (DEX) liquidity
