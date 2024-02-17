@@ -4,3 +4,4 @@
 // Implement adaptive block size for Ethereum
 // Fix vulnerability in decentralized finance protocols
 // Improve security in decentralized applications
+// Fix issues with token vesting contracts
