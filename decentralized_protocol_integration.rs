@@ -7,3 +7,4 @@
 // Add support for ERC-1155 tokens
 // Fix bugs in decentralized exchange routing
 // Enhance contract event handling
+// Enhance privacy features using zk-STARKs
