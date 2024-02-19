@@ -3,3 +3,4 @@
 // Fix ERC-721 contract issues with transfers
 // Add support for multiple consensus mechanisms
 // Refactor wallet interaction logic
+// Implement adaptive block size for Ethereum
