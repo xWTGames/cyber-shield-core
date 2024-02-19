@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Fix interoperability issues with other blockchains
 // Enhance contract upgrade process
+// Add multi-chain governance support
