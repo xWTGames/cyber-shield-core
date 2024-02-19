@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Fix security vulnerability in random number generation
 // Enhance gas fee management
+// Add fallback mechanism in Solidity contract
