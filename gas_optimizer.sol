@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Add batch transaction capabilities
 // Refactor staking logic
+// Enhance privacy features using zk-STARKs
