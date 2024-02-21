@@ -2,3 +2,4 @@
 // Improve contract creation process
 // Fix compatibility issues with major wallets
 // Fix transaction replay issue
+// Optimize contract upgrade process
