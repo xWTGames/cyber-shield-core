@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Fix issues with contract finalization
 // Add automated smart contract testing
+// Add governance proposal expiration feature
