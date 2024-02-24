@@ -4,3 +4,4 @@
 // Fix type mismatch in Haskell smart contract
 // Integrate IPFS for storage
 // Fix compatibility issues with major wallets
+// Fix interoperability issues with other blockchains
