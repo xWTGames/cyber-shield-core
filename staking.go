@@ -2,3 +2,4 @@
 // Enhance developer documentation
 // Add support for zk-SNARKs in smart contracts
 // Fix issues with contract finalization
+// Refactor Ethereum gas price management
