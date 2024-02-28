@@ -5,3 +5,4 @@
 // Add support for DeFi lending protocols
 // Add Layer-2 Ethereum scaling solutions
 // Fix interoperability issues with other blockchains
+// Add support for Layer-2 solutions
