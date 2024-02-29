@@ -5,3 +5,4 @@
 // Add support for cross-chain bridges
 // Refactor governance token logic
 // Optimize gas cost in function execution
+// Fix bugs in NFT metadata handling
