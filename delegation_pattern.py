@@ -4,3 +4,4 @@
 // Add automated smart contract testing
 // Add support for ERC-1155 tokens
 // Add support for zk-SNARKs in smart contracts
+// Improve gas estimation for transactions
