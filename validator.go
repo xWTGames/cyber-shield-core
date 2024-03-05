@@ -4,3 +4,4 @@
 // Refactor token economics model
 // Improve staking pool reward management
 // Refactor token distribution mechanism
+// Improve decentralized identity (DID) systems
