@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize token burn process
 // Enhance contract modularity
+// Fix issues with ERC-20 token approvals
