@@ -4,3 +4,4 @@
 // Enhance API rate limiting for smart contracts
 // Refactor governance proposal logic
 // Add new feature: on-chain governance
+// Integrate zk-rollups for scaling
