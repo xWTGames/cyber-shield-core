@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Fix token transfer approval issues
 // Implement dynamic fee adjustment
+// Add security checks for contract deployment
