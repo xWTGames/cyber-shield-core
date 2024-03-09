@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Optimize cross-chain bridging mechanisms
 // Integrate with external DeFi protocols
+// Add support for ERC-721A tokens
