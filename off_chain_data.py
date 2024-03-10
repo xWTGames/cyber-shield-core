@@ -5,3 +5,4 @@
 // Refactor governance token logic
 // Integrate IPFS for storage
 // Add support for ERC-1155 tokens
+// Bugfix: incorrect reward calculation
