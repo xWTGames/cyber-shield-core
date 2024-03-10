@@ -2,3 +2,4 @@
 // Integrate with decentralized prediction markets
 // Enhance off-chain data processing
 // Enhance contract modularity
+// Fix compatibility with MetaMask
