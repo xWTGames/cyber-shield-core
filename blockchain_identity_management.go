@@ -3,3 +3,4 @@
 // Fix compatibility issues with MetaMask
 // Improve token burning mechanism
 // Add batch processing for transactions
+// Add support for decentralized marketplaces
