@@ -3,3 +3,4 @@
 // Update dependencies for Vyper contract
 // Add support for delegation in governance
 // Enhance contract initialization process
+// Add support for multiple consensus mechanisms
