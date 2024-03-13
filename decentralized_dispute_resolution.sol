@@ -4,3 +4,4 @@
 // Fix vulnerabilities in staking contracts
 // Improve contract execution performance
 // Update smart contract tests
+// Fix issues in multi-token smart contracts
