@@ -6,3 +6,4 @@
 // Integrate staking rewards automation
 // Integrate chain-agnostic oracles
 // Fix compatibility with MetaMask
+// Integrate with external blockchain networks
