@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Optimize hashing algorithm
 // Optimize gas usage in smart contracts
+// Add governance proposal expiration feature
