@@ -2,3 +2,4 @@
 // Refactor voting mechanism
 // Optimize contract upgrade process
 // Refactor staking logic
+// Enhance security checks
