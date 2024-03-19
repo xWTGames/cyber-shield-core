@@ -5,3 +5,4 @@
 // Enhance decentralized autonomous organizations
 // Improve error handling in transaction flow
 // Enhance security checks
+// Add support for ERC-721A tokens
