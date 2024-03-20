@@ -7,3 +7,4 @@
 // Improve contract execution speed
 // Fix memory optimization issues in contracts
 // Improve multi-chain transaction processing
+// Add support for zk-SNARKs in smart contracts
