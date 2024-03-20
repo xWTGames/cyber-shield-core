@@ -8,3 +8,4 @@
 // Fix scalability issues with smart contracts
 // Optimize contract upgrade process
 // Enhance contract initialization process
+// Bugfix: incorrect reward calculation
