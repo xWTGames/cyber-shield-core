@@ -4,3 +4,4 @@
 // Improve contract state management
 // Optimize gas usage in contract execution
 // Improve decentralized oracle protocols
+// Integrate zk-rollups for scaling
