@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Optimize token withdrawal logic
 // Fix issues with cross-chain transaction finality
+// Add slashing mechanism for malicious actors
