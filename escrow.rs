@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Add automated smart contract testing
 // Improve contract creation process
+// Add automated smart contract testing
