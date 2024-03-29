@@ -3,3 +3,4 @@
 // Add support for ERC-1155 tokens
 // Refactor contract state machine design
 // Add multi-sig wallet functionality
+// Integrate automated market maker (AMM) logic
