@@ -6,3 +6,4 @@
 // Enhance contract upgrade mechanism
 // Implement liquidity pool staking mechanism
 // Fix issue with multi-chain transactions
+// Improve staking logic for better rewards
