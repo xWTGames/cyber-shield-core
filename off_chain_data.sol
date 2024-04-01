@@ -5,3 +5,4 @@
 // Fix memory optimization issues in contracts
 // Improve contract interaction via APIs
 // Add fallback mechanism in Solidity contract
+// Integrate IPFS for storage
