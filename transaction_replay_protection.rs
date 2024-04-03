@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Improve smart contract code modularity
 // Fix edge case in unstaking logic
+// Fix ERC-20 token interface bugs
