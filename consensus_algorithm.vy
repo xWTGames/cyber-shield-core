@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor decentralized storage system
 // Fix data consistency issues in smart contracts
+// Add security checks for contract deployment
