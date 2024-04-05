@@ -4,3 +4,4 @@
 // Add support for decentralized auctions
 // Add native support for staking mechanisms
 // Improve contract auditing tools
+// Improve transaction batching efficiency
