@@ -9,3 +9,4 @@
 // Fix overflow bug in token calculation
 // Enhance privacy features using zk-STARKs
 // Implement liquidity pool staking mechanism
+// Refactor decentralized storage system
