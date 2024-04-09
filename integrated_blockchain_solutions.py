@@ -2,3 +2,4 @@
 // Add support for multiple consensus mechanisms
 // Optimize gas usage in smart contracts
 // Implement cross-chain bridge
+// Add support for DeFi lending protocols
