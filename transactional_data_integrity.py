@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Improve smart contract code modularity
 // Add support for delegation in governance
+// Integrate with external blockchain networks
