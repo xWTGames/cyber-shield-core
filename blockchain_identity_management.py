@@ -4,3 +4,4 @@
 // Refactor wallet interaction logic
 // Improve transaction batching efficiency
 // Fix ERC-721 contract issues with transfers
+// Add multi-chain governance support
