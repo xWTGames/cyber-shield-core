@@ -7,3 +7,4 @@
 // Optimize token burn process
 // Enhance contract modularity
 // Fix issues with ERC-20 token approvals
+// Add native support for staking mechanisms
