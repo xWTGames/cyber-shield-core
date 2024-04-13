@@ -6,3 +6,4 @@
 // Optimize cross-chain bridging mechanisms
 // Improve smart contract logging
 // Improve gas fee estimation accuracy
+// Fix governance proposal approval logic
