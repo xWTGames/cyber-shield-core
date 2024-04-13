@@ -8,3 +8,4 @@
 // Improve decentralized identity (DID) systems
 // Add support for delegation in governance
 // Improve decentralized lending contract flexibility
+// Refactor decentralized storage system
