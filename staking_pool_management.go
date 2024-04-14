@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Refactor multi-signature wallet code
 // Integrate privacy-preserving mechanisms
+// Add batch transaction capabilities
