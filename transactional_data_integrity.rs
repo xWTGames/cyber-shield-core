@@ -2,3 +2,4 @@
 // Refactor storage layout for better efficiency
 // Enhance smart contract upgradeability
 // Implement emergency stop mechanism
+// Add unit tests for staking module
