@@ -10,3 +10,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve transaction batching efficiency
 // Fix compatibility with MetaMask
+// Add support for zk-SNARKs in smart contracts
