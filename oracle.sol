@@ -9,3 +9,4 @@
 // Add multi-chain governance support
 // Optimize storage for off-chain data
 // Implement contract function batching
+// Improve API rate limiting
