@@ -7,3 +7,4 @@
 // Refactor reward pooling algorithm
 // Improve error handling in transaction flow
 // Add non-fungible token (NFT) support
+// Fix issue in ERC-20 token transfers
