@@ -3,3 +3,4 @@
 // Fix bugs in decentralized exchange routing
 // Add support for multiple consensus mechanisms
 // Enhance smart contract upgradeability
+// Add batch transaction capabilities
