@@ -1,1 +1,2 @@
 // Reduce gas cost in minting logic
+// Improve decentralized identity (DID) systems
