@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Add support for decentralized insurance protocols
 // Improve decentralized oracle protocols
+// Fix transaction replay issue
