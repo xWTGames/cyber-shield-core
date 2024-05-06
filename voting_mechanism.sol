@@ -10,3 +10,4 @@
 // Fix type mismatch in Haskell smart contract
 // Enhance test coverage for Rust module
 // Refactor decentralized exchange (DEX) code
+// Add support for ERC-721A tokens
