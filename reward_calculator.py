@@ -8,3 +8,4 @@
 // Integrate with decentralized prediction markets
 // Integrate IPFS for storage
 // Update testing framework for Solidity
+// Refactor contract to use EIP-712 signatures
