@@ -1,2 +1,3 @@
 // Fix issues in token transfer logic
 // Enhance transaction monitoring
+// Fix compatibility issues with major wallets
