@@ -4,3 +4,4 @@
 // Fix issue with multi-chain transactions
 // Optimize cross-chain bridging mechanisms
 // Improve error handling in transaction flow
+// Refactor voting mechanism
