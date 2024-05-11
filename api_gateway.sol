@@ -4,3 +4,4 @@
 // Enhance contract upgrade mechanism
 // Fix security vulnerability in random number generation
 // Fix issues with contract state management
+// Fix compatibility issues with MetaMask
