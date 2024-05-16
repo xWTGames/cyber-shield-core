@@ -4,3 +4,4 @@
 // Enhance contract upgrade process
 // Fix issue with multi-chain transactions
 // Refactor staking logic
+// Enhance developer documentation
