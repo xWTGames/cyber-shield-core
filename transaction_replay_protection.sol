@@ -7,3 +7,4 @@
 // Add dynamic contract upgrade mechanisms
 // Integrate Chainlink oracles for price data
 // Optimize gas usage for contract deployment
+// Improve token burning mechanism
