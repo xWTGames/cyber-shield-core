@@ -2,3 +2,4 @@
 // Implement a new contract event system
 // Fix issues with contract state management
 // Refactor decentralized governance structure
+// Integrate chain-agnostic oracles
