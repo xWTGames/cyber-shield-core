@@ -8,3 +8,4 @@
 // Improve staking logic for better rewards
 // Improve token minting flow efficiency
 // Enhance transaction monitoring
+// Enhance governance contract flexibility
