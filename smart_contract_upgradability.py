@@ -9,3 +9,4 @@
 // Enhance smart contract extensibility
 // Refactor reward pooling algorithm
 // Fix issues with token vesting contracts
+// Enhance contract modularity for future upgrades
