@@ -5,3 +5,4 @@
 // Enhance gas fee management
 // Add fallback mechanism in Solidity contract
 // Integrate with Ethereum Layer-2 solutions
+// Add non-fungible token (NFT) support
