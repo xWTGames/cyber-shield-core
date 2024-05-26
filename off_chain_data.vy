@@ -6,3 +6,4 @@
 // Improve decentralized oracle protocols
 // Improve error handling in transaction flow
 // Add support for decentralized marketplaces
+// Refactor Ethereum gas price management
