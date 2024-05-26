@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Implement automated governance voting
 // Integrate IPFS for storage
+// Add dynamic contract fees
