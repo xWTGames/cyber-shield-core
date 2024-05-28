@@ -3,3 +3,4 @@
 // Add support for decentralized file storage
 // Add security checks for contract deployment
 // Integrate with external blockchain networks
+// Update README with Go module examples
