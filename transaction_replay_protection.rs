@@ -5,3 +5,4 @@
 // Improve smart contract code modularity
 // Fix edge case in unstaking logic
 // Fix ERC-20 token interface bugs
+// Optimize gas usage in smart contracts
