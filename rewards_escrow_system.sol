@@ -6,3 +6,4 @@
 // Add support for decentralized insurance protocols
 // Improve contract creation process
 // Improve multi-chain transaction processing
+// Refactor staking logic
