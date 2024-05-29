@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Enhance smart contract extensibility
 // Improve contract state management
+// Add governance proposal expiration feature
