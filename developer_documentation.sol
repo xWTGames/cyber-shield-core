@@ -5,3 +5,4 @@
 // Implement reward distribution feature
 // Integrate with decentralized identity providers
 // Fix type mismatch in Haskell smart contract
+// Fix governance proposal approval logic
