@@ -3,3 +3,4 @@
 // Integrate Chainlink oracles for price data
 // Enhance API rate limiting for smart contracts
 // Fix memory optimization issues in contracts
+// Integrate privacy-enhancing smart contracts
