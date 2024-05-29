@@ -4,3 +4,4 @@
 // Integrate with external DeFi protocols
 // Optimize gas usage for contract deployment
 // Refactor token economics model
+// Add support for cross-chain bridges
