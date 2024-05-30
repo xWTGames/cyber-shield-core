@@ -3,3 +3,4 @@
 // Integrate with multi-token standards
 // Optimize token minting flow
 // Enhance developer documentation
+// Add support for fractional token ownership
