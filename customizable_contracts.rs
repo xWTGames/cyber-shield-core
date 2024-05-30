@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Implement delegation pattern
 // Code cleanup and documentation update
+// Improve on-chain governance systems
