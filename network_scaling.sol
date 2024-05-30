@@ -5,3 +5,4 @@
 // Add support for ERC-1155 tokens
 // Fix security vulnerability in random number generation
 // Add support for decentralized content distribution
+// Update README with Go module examples
