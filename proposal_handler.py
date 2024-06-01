@@ -7,3 +7,4 @@
 // Add support for decentralized auctions
 // Improve smart contract code modularity
 // Fix issues in multi-token smart contracts
+// Integrate zk-rollups for scaling
