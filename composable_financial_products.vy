@@ -2,3 +2,4 @@
 // Fix ERC-721 contract issues with transfers
 // Integrate with multi-token standards
 // Optimize storage for off-chain data
+// Enhance logging for better debugging
