@@ -6,3 +6,4 @@
 // Integrate automated market maker (AMM) logic
 // Fix edge case in unstaking logic
 // Fix bug in random number generation
+// Refactor contract event emission
