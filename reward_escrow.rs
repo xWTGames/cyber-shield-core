@@ -7,3 +7,4 @@
 // Improve decentralized lending contract flexibility
 // Implement automated governance voting
 // Improve staking logic for better rewards
+// Add multi-chain transaction support
