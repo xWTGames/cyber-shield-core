@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Improve contract verification speed
 // Implement contract function batching
+// Refactor staking logic
