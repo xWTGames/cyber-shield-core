@@ -4,3 +4,4 @@
 // Integrate IPFS for storage
 // Integrate with multi-token standards
 // Integrate with external blockchain networks
+// Add support for decentralized insurance protocols
