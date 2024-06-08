@@ -4,3 +4,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Optimize cross-chain bridging mechanisms
 // Fix errors in NFT minting logic
+// Enhance privacy features using zk-STARKs
