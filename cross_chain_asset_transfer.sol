@@ -2,3 +2,4 @@
 // Fix interoperability issues with other blockchains
 // Improve contract execution performance
 // Integrate decentralized anonymous identity systems
+// Refactor staking logic
