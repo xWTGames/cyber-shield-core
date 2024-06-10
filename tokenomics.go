@@ -4,3 +4,4 @@
 // Improve error handling in transaction flow
 // Fix Oracle communication delay issues
 // Fix contract reentrancy issues
+// Add support for ERC-721A tokens
