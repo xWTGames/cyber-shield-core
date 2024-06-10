@@ -6,3 +6,4 @@
 // Improve contract verification speed
 // Improve contract creation process
 // Add batch processing for transactions
+// Integrate zk-SNARKs for enhanced privacy
