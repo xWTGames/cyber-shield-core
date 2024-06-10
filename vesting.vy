@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Improve error handling in transaction flow
 // Integrate decentralized oracles for data feeds
+// Enhance smart contract upgradeability
