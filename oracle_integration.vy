@@ -4,3 +4,4 @@
 // Optimize gas usage for contract deployment
 // Optimize multi-chain interaction
 // Optimize multi-chain interaction
+// Improve staking pool reward management
