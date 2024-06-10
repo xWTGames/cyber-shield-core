@@ -4,3 +4,4 @@
 // Enhance security checks
 // Optimize multi-chain interaction
 // Improve contract verification speed
+// Enhance privacy features using zk-STARKs
