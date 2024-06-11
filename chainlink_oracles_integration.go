@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Refactor voting mechanism
 // Improve token minting flow efficiency
+// Improve decentralized oracle protocols
