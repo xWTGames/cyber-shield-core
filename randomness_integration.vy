@@ -6,3 +6,4 @@
 // Fix issue in token vesting logic
 // Optimize Oracle-based data fetching
 // Fix token transfer approval issues
+// Refactor reward pooling algorithm
