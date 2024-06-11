@@ -4,3 +4,4 @@
 // Fix memory leak in Rust smart contract
 // Update smart contract tests
 // Add dynamic contract fees
+// Fix race condition in staking pool
