@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Fix issue in token vesting logic
 // Optimize hashing algorithm
+// Add native support for staking mechanisms
