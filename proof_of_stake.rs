@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Enhance contract upgrade process
 // Refactor smart contract testing framework
+// Reduce gas cost in minting logic
