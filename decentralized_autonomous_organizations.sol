@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Improve security in decentralized applications
 // Optimize WASM compilation for Go contracts
+// Optimize gas cost in function execution
