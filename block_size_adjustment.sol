@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Optimize contract upgrade process
 // Fix ERC-721 contract issues with transfers
+// Add support for delegation in governance
