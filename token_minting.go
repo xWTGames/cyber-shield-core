@@ -6,3 +6,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Fix interoperability issues with other blockchains
 // Add support for Layer-2 solutions
+// Fix compatibility issues with MetaMask
