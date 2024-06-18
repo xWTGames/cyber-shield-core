@@ -4,3 +4,4 @@
 // Implement price feed oracles for tokens
 // Fix overflow bug in token calculation
 // Improve error handling in transaction flow
+// Implement delegation pattern
