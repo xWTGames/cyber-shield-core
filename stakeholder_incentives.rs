@@ -7,3 +7,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix issues in token transfer logic
 // Implement delegation pattern
+// Fix errors in NFT minting logic
