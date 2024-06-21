@@ -3,3 +3,4 @@
 // Improve token minting flow efficiency
 // Add support for decentralized content distribution
 // Implement emergency stop mechanism
+// Fix issue in token vesting logic
