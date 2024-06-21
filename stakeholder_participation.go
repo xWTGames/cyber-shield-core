@@ -4,3 +4,4 @@
 // Add support for cross-chain bridges
 // Add support for multiple consensus mechanisms
 // Refactor validator reward system
+// Add new feature: on-chain governance
