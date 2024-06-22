@@ -8,3 +8,4 @@
 // Add support for DeFi lending protocols
 // Refactor decentralized exchange (DEX) code
 // Fix overflow bug in token calculation
+// Add batch transaction capabilities
