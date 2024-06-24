@@ -2,3 +2,4 @@
 // Integrate with decentralized prediction markets
 // Optimize Oracle-based data fetching
 // Enhance logging for better debugging
+// Fix transaction replay issue
