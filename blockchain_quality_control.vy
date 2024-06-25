@@ -3,3 +3,4 @@
 // Add new RPC endpoint
 // Improve security for token minting contracts
 // Improve contract verification speed
+// Integrate with decentralized identity providers
