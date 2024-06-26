@@ -11,3 +11,4 @@
 // Fix issues with token vesting contracts
 // Enhance contract modularity for future upgrades
 // Fix governance proposal approval logic
+// Implement reward distribution feature
