@@ -3,3 +3,4 @@
 // Improve contract execution performance
 // Integrate decentralized anonymous identity systems
 // Refactor staking logic
+// Improve staking pool reward management
