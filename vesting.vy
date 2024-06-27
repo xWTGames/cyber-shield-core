@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Integrate decentralized oracles for data feeds
 // Enhance smart contract upgradeability
+// Fix issues with ERC-20 token approvals
