@@ -2,3 +2,4 @@
 // Improve scalability for smart contract platforms
 // Upgrade to latest Solidity version
 // Refactor contract event emission
+// Add support for ERC-1155 tokens
