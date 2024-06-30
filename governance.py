@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Implement delegation pattern
 // Enhance decentralized autonomous organizations
+// Fix compatibility issues with MetaMask
