@@ -5,3 +5,4 @@
 // Add dynamic contract upgrade mechanisms
 // Integrate automated market maker (AMM) logic
 // Add support for decentralized lending platforms
+// Update README with Go module examples
