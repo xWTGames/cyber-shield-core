@@ -8,3 +8,4 @@
 // Implement automated governance voting
 // Improve staking logic for better rewards
 // Add multi-chain transaction support
+// Integrate automated market maker (AMM) logic
