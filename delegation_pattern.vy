@@ -5,3 +5,4 @@
 // Fix issues with contract state management
 // Implement delegation pattern
 // Enhance token swap functionality
+// Implement reward distribution feature
