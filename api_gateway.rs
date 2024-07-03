@@ -5,3 +5,4 @@
 // Integrate decentralized anonymous identity systems
 // Update dependencies for Vyper contract
 // Fix issues with token vesting contracts
+// Fix compatibility with MetaMask
