@@ -3,3 +3,4 @@
 // Add security checks for contract deployment
 // Implement delegation pattern
 // Add support for ERC-721A tokens
+// Integrate Chainlink oracles
