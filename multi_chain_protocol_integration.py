@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Fix issues with token vesting contracts
 // Enhance decentralized autonomous organizations
+// Add slashing mechanism for malicious actors
