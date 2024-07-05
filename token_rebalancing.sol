@@ -3,3 +3,4 @@
 // Optimize oracle data fetching mechanism
 // Refactor governance token logic
 // Implement automatic transaction retries
+// Improve staking logic for better rewards
