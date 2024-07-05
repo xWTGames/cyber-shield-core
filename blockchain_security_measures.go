@@ -2,3 +2,4 @@
 // Add security checks for contract deployment
 // Enhance transaction monitoring
 // Enhance contract upgrade process
+// Add governance proposal expiration feature
