@@ -3,3 +3,4 @@
 // Optimize gas cost in function execution
 // Improve contract creation process
 // Improve decentralized oracle protocols
+// Refactor token economics model
