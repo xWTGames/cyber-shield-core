@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate zk-rollups for scaling
 // Fix issues with token vesting contracts
+// Integrate chain-agnostic oracles
