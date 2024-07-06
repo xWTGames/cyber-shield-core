@@ -4,3 +4,4 @@
 // Fix issues with contract finalization
 // Add automated smart contract testing
 // Add governance proposal expiration feature
+// Integrate with external DeFi protocols
