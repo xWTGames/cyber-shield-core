@@ -7,3 +7,4 @@
 // Refactor incentive structure in DeFi protocol
 // Integrate Chainlink VRF for randomness
 // Fix issues with contract state management
+// Fix vulnerabilities in staking contracts
