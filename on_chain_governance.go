@@ -3,3 +3,4 @@
 // Enhance contract event handling
 // Improve token minting flow efficiency
 // Improve decentralized lending contract flexibility
+// Improve staking logic for better rewards
