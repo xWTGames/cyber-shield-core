@@ -4,3 +4,4 @@
 // Add multi-chain transaction support
 // Optimize contract storage for gas reduction
 // Implement adaptive block size for Ethereum
+// Refactor reward pooling algorithm
