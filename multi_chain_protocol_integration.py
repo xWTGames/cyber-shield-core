@@ -5,3 +5,4 @@
 // Fix issues with token vesting contracts
 // Enhance decentralized autonomous organizations
 // Add slashing mechanism for malicious actors
+// Implement cross-chain bridge
