@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Improve oracle data validation mechanisms
 // Add support for ERC-1155 tokens
+// Optimize Oracle-based data fetching
