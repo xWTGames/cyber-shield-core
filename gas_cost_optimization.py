@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Improve contract state management
 // Add support for fractional token ownership
+// Improve error handling in transaction flow
