@@ -6,3 +6,4 @@
 // Add automated smart contract testing
 // Improve contract creation process
 // Add automated smart contract testing
+// Add support for ERC-721A tokens
