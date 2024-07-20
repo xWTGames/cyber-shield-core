@@ -8,3 +8,4 @@
 // Integrate Chainlink oracles for price data
 // Optimize gas usage for contract deployment
 // Improve token burning mechanism
+// Fix issue in ERC-20 token transfers
