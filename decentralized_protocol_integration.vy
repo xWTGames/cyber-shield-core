@@ -3,3 +3,4 @@
 // Enhance smart contract extensibility
 // Fix deserialization bug in Haskell code
 // Update smart contract tests
+// Fix scalability issues with smart contracts
