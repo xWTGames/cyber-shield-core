@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Optimize Oracle-based data fetching
 // Enhance smart contract upgradeability
+// Integrate IPFS for storage
