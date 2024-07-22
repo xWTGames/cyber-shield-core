@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix Oracle communication delay issues
 // Enhance contract initialization process
+// Implement zero-knowledge proof (ZKP) support
