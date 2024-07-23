@@ -4,3 +4,4 @@
 // Optimize cross-chain communication
 // Add native support for staking mechanisms
 // Fix governance proposal approval logic
+// Add support for ERC-721A tokens
