@@ -3,3 +3,4 @@
 // Improve token minting flow efficiency
 // Improve decentralized identity (DID) systems
 // Add support for decentralized file storage
+// Integrate zk-rollups for scaling
