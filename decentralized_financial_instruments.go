@@ -5,3 +5,4 @@
 // Add support for decentralized lending platforms
 // Fix issues with contract finalization
 // Add support for delegation in governance
+// Implement liquidity pool staking mechanism
