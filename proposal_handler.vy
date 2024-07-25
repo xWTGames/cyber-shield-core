@@ -3,3 +3,4 @@
 // Implement contract function batching
 // Add governance proposal expiration feature
 // Enhance contract initialization process
+// Integrate IPFS for storage
