@@ -7,3 +7,4 @@
 // Refactor contract to use EIP-712 signatures
 // Integrate Chainlink oracles
 // Enhance contract initialization process
+// Integrate flash loan functionality
