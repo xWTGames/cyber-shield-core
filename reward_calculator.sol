@@ -9,3 +9,4 @@
 // Refactor decentralized exchange (DEX) code
 // Fix overflow bug in token calculation
 // Add batch transaction capabilities
+// Add dynamic contract fees
