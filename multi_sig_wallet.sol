@@ -5,3 +5,4 @@
 // Add unit tests for staking module
 // Fix token transfer approval issues
 // Add support for decentralized auctions
+// Add native support for staking rewards
