@@ -4,3 +4,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Add native support for staking mechanisms
 // Enhance logging for better debugging
+// Optimize token burn process
