@@ -4,3 +4,4 @@
 // Improve contract verification speed
 // Implement contract function batching
 // Refactor staking logic
+// Fix ERC-20 token interface bugs
