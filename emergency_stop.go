@@ -4,3 +4,4 @@
 // Upgrade to latest Solidity version
 // Fix vulnerabilities in staking contracts
 // Implement automated governance voting
+// Implement on-chain identity verification
