@@ -3,3 +3,4 @@
 // Implement rewards escrow system
 // Enhance developer documentation
 // Implement zero-knowledge proof (ZKP) support
+// Refactor contract to use EIP-712 signatures
