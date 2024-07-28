@@ -7,3 +7,4 @@
 // Implement liquidity pool staking mechanism
 // Fix issue with multi-chain transactions
 // Improve staking logic for better rewards
+// Improve gas estimation for transactions
