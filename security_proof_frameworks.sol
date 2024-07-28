@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Improve oracle data validation mechanisms
 // Refactor staking logic
+// Fix token transfer approval issues
