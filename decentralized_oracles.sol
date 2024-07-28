@@ -6,3 +6,4 @@
 // Fix bugs in decentralized exchange routing
 // Integrate zk-SNARKs for enhanced privacy
 // Fix transaction replay issue
+// Add new RPC endpoint
