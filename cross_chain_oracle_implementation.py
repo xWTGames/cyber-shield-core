@@ -4,3 +4,4 @@
 // Add native support for staking mechanisms
 // Add batch processing for transactions
 // Enhance token swap functionality
+// Add support for batch transaction processing
