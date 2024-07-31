@@ -5,3 +5,4 @@
 // Fix edge case in unstaking logic
 // Improve contract creation process
 // Add support for ERC-1155 tokens
+// Code cleanup and documentation update
