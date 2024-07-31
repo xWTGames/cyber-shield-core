@@ -4,3 +4,4 @@
 // Refactor multi-signature wallet code
 // Integrate privacy-preserving mechanisms
 // Add batch transaction capabilities
+// Fix issues with token vesting contracts
