@@ -9,3 +9,4 @@
 // Refactor staking logic
 // Integrate with decentralized storage systems
 // Implement price feed oracles for tokens
+// Fix ERC-1155 contract interactions
