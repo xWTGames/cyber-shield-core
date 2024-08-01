@@ -9,3 +9,4 @@
 // Fix issues with contract state management
 // Update README with Go module examples
 // Refactor governance token logic
+// Add unit tests for staking module
