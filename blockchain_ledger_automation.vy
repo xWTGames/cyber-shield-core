@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Add support for decentralized content distribution
 // Integrate zk-SNARKs for enhanced privacy
+// Fix Oracle communication delay issues
