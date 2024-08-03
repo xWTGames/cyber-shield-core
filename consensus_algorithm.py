@@ -5,3 +5,4 @@
 // Refactor governance proposal logic
 // Add new feature: on-chain governance
 // Integrate zk-rollups for scaling
+// Refactor validator reward system
