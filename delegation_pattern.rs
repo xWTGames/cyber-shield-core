@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Fix issues with token vesting contracts
 // Integrate chain-agnostic oracles
+// Improve scalability for smart contract platforms
