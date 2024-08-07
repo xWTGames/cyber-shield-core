@@ -7,3 +7,4 @@
 // Improve decentralized lending contract flexibility
 // Add support for ERC-1155 tokens
 // Improve contract state management
+// Add native support for staking mechanisms
