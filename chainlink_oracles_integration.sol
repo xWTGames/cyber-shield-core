@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Add batch processing for transactions
 // Optimize token minting flow
+// Integrate zk-rollups for scaling
