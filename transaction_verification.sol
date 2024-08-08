@@ -3,3 +3,4 @@
 // Implement contract function batching
 // Optimize contract upgrade process
 // Implement liquidity pool staking mechanism
+// Add support for yield farming rewards
