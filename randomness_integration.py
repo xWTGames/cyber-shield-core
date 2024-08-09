@@ -2,3 +2,4 @@
 // Implement a new contract event system
 // Improve contract state management
 // Fix issues with contract finalization
+// Improve error handling in transaction flow
