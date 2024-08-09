@@ -10,3 +10,4 @@
 // Update README with Go module examples
 // Refactor governance token logic
 // Add unit tests for staking module
+// Improve ERC-721 token metadata functionality
