@@ -2,3 +2,4 @@
 // Optimize hashing algorithm
 // Add batch transaction capabilities
 // Fix bugs in multi-token systems
+// Implement price feed oracles for tokens
