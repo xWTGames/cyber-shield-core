@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Fix issues with token vesting contracts
 // Fix compatibility with MetaMask
+// Integrate zk-rollups for scaling
