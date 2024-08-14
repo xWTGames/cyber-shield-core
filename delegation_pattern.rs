@@ -6,3 +6,4 @@
 // Integrate chain-agnostic oracles
 // Improve scalability for smart contract platforms
 // Optimize multi-chain interaction
+// Add support for ERC-1155 tokens
