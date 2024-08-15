@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Update README with Go module examples
 // Bugfix: incorrect reward calculation
+// Refactor decentralized storage system
