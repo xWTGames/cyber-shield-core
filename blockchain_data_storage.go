@@ -3,3 +3,4 @@
 // Refactor multi-signature wallet code
 // Add multi-sig wallet functionality
 // Refactor reward pooling algorithm
+// Refactor governance proposal logic
