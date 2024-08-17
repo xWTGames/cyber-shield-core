@@ -9,3 +9,4 @@
 // Optimize contract upgrade process
 // Enhance contract initialization process
 // Bugfix: incorrect reward calculation
+// Add support for decentralized lending platforms
