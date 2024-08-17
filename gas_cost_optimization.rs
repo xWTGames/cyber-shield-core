@@ -3,3 +3,4 @@
 // Enhance test coverage for Rust module
 // Fix errors in NFT minting logic
 // Fix transaction replay issue
+// Improve token burning mechanism
