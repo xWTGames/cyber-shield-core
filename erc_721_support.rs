@@ -9,3 +9,4 @@
 // Bugfix: incorrect reward calculation
 // Optimize hashing algorithm
 // Fix issue with multi-chain transactions
+// Fix vulnerabilities in staking contracts
