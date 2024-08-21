@@ -6,3 +6,4 @@
 // Optimize contract upgrade process
 // Fix ERC-721 contract issues with transfers
 // Add support for delegation in governance
+// Fix Oracle communication delay issues
