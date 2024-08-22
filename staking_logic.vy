@@ -3,3 +3,4 @@
 // Improve security for token minting contracts
 // Enhance contract modularity for future upgrades
 // Fix issue with multi-chain transactions
+// Enhance governance contract flexibility
