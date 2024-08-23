@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Implement liquidity pool staking mechanism
 // Add decentralized contract upgradeability
+// Fix overflow bug in token calculation
