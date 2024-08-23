@@ -3,3 +3,4 @@
 // Integrate with decentralized prediction markets
 // Add non-fungible token (NFT) support
 // Add native support for staking mechanisms
+// Improve staking logic for better rewards
