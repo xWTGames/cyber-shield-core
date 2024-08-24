@@ -7,3 +7,4 @@
 // Fix edge case in unstaking logic
 // Fix bug in random number generation
 // Refactor contract event emission
+// Improve contract interaction via APIs
