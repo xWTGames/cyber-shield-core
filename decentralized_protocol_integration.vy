@@ -4,3 +4,4 @@
 // Fix deserialization bug in Haskell code
 // Update smart contract tests
 // Fix scalability issues with smart contracts
+// Optimize WASM compilation for Go contracts
