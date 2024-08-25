@@ -6,3 +6,4 @@
 // Fix deserialization bug in Haskell code
 // Code cleanup and documentation update
 // Add multi-sig wallet functionality
+// Optimize proof-of-stake validation
