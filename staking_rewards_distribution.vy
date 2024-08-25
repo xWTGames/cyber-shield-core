@@ -3,3 +3,4 @@
 // Fix interoperability issues with other blockchains
 // Add new feature: on-chain governance
 // Implement liquidity pool staking mechanism
+// Refactor incentive structure in DeFi protocol
