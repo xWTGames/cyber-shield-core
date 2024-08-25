@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Fix bugs in decentralized exchange routing
 // Optimize proof-of-stake validation
+// Improve contract interaction via APIs
