@@ -8,3 +8,4 @@
 // Update README with Go module examples
 // Update testing framework for Solidity
 // Optimize state channels for faster transactions
+// Add support for decentralized marketplaces
