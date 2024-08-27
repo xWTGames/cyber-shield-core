@@ -8,3 +8,4 @@
 // Fix issue with multi-chain transactions
 // Improve staking logic for better rewards
 // Improve gas estimation for transactions
+// Integrate zk-rollups for scaling
