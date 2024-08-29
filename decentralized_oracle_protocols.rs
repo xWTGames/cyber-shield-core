@@ -3,3 +3,4 @@
 // Improve contract state management
 // Improve security for token minting contracts
 // Add automated smart contract testing
+// Add support for DeFi lending protocols
