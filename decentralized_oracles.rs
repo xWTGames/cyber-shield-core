@@ -6,3 +6,4 @@
 // Add support for DeFi lending protocols
 // Fix issues with contract state management
 // Add native support for staking rewards
+// Integrate with external DeFi protocols
