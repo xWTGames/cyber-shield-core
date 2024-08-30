@@ -9,3 +9,4 @@
 // Fix issues in multi-token smart contracts
 // Integrate zk-rollups for scaling
 // Fix edge case in unstaking logic
+// Add support for decentralized file storage
