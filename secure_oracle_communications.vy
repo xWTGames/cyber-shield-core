@@ -3,3 +3,4 @@
 // Add non-fungible token (NFT) support
 // Add batch processing for transactions
 // Fix bugs in decentralized exchange routing
+// Improve contract interaction via APIs
