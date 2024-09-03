@@ -8,3 +8,4 @@
 // Enhance contract state verification
 // Fix governance proposal approval logic
 // Fix Oracle communication delay issues
+// Fix issue in token vesting logic
