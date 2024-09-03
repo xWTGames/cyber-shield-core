@@ -5,3 +5,4 @@
 // Add support for decentralized file storage
 // Refactor voting mechanism
 // Optimize hashing algorithm
+// Refactor multi-signature wallet code
