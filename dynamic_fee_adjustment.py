@@ -7,3 +7,4 @@
 // Add batch processing for transactions
 // Implement cross-platform contract compatibility
 // Improve transaction batching efficiency
+// Refactor reward pooling algorithm
