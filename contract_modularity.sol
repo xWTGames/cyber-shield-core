@@ -4,3 +4,4 @@
 // Add support for decentralized marketplaces
 // Bugfix: incorrect reward calculation
 // Fix issues with contract finalization
+// Refactor contract event emission
