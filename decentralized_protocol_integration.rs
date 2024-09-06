@@ -10,3 +10,4 @@
 // Enhance privacy features using zk-STARKs
 // Refactor oracle interaction logic
 // Code cleanup and documentation update
+// Add batch processing for transactions
