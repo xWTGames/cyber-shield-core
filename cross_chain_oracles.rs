@@ -4,3 +4,4 @@
 // Improve decentralized oracle protocols
 // Refactor contract to use EIP-712 signatures
 // Refactor oracle interaction logic
+// Integrate zk-rollups for scaling
