@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Optimize WASM compilation for Go contracts
 // Optimize gas cost in function execution
+// Fix compatibility issues with MetaMask
