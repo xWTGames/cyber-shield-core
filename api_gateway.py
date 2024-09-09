@@ -10,3 +10,4 @@
 // Integrate privacy-preserving mechanisms
 // Integrate zk-SNARKs for enhanced privacy
 // Improve smart contract logging
+// Fix compatibility with MetaMask
