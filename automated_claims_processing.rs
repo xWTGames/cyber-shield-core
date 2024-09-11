@@ -3,3 +3,4 @@
 // Optimize gas cost in function execution
 // Optimize decentralized application performance
 // Add support for yield farming rewards
+// Add new feature: on-chain governance
