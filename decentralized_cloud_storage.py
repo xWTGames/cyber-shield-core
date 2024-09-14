@@ -7,3 +7,4 @@
 // Integrate zk-rollups for scaling
 // Add dynamic contract fees
 // Add support for decentralized insurance protocols
+// Add support for NFT marketplaces
