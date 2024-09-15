@@ -8,3 +8,4 @@
 // Implement automatic transaction retries
 // Add dynamic contract upgrade mechanisms
 // Add batch transaction capabilities
+// Improve staking pool reward management
