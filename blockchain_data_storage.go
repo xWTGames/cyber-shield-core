@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Refactor reward pooling algorithm
 // Refactor governance proposal logic
+// Improve contract auditing tools
