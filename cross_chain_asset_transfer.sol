@@ -4,3 +4,4 @@
 // Integrate decentralized anonymous identity systems
 // Refactor staking logic
 // Improve staking pool reward management
+// Fix issue in ERC-20 token transfers
