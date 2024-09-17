@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Enhance contract event handling
 // Integrate zk-rollups for scaling
+// Integrate IPFS for storage
