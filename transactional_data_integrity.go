@@ -7,3 +7,4 @@
 // Improve contract creation process
 // Add batch processing for transactions
 // Integrate zk-SNARKs for enhanced privacy
+// Refactor cross-chain communication layer
