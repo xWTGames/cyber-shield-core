@@ -13,3 +13,4 @@
 // Fix bugs in decentralized exchange routing
 // Enhance gas fee management
 // Improve decentralized oracle protocols
+// Add support for zk-SNARKs in smart contracts
