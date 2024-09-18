@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Implement delegation pattern
 // Optimize token burn process
+// Optimize gas cost in function execution
