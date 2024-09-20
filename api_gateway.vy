@@ -4,3 +4,4 @@
 // Add support for decentralized file storage
 // Optimize decentralized voting mechanisms
 // Refactor oracle interaction logic
+// Add support for ERC-721A tokens
