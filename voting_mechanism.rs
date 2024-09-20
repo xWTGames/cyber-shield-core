@@ -8,3 +8,4 @@
 // Update testing framework for Solidity
 // Fix interoperability issues with other blockchains
 // Add batch processing for transactions
+// Add support for ERC-1155 tokens
