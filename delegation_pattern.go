@@ -6,3 +6,4 @@
 // Integrate automated market maker (AMM) logic
 // Add support for decentralized lending platforms
 // Update README with Go module examples
+// Fix deserialization bug in Haskell code
