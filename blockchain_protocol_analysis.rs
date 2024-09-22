@@ -4,3 +4,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor wallet interaction logic
 // Implement adaptive block size for Ethereum
+// Fix interoperability issues with other blockchains
