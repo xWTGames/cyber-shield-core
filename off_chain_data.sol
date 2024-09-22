@@ -6,3 +6,4 @@
 // Improve contract interaction via APIs
 // Add fallback mechanism in Solidity contract
 // Integrate IPFS for storage
+// Add support for decentralized insurance protocols
