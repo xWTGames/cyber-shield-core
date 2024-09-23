@@ -12,3 +12,4 @@
 // Improve contract interaction via APIs
 // Integrate flash loan functionality
 // Improve contract auditing tools
+// Add governance proposal expiration feature
