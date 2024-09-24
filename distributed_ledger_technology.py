@@ -3,3 +3,4 @@
 // Enhance API rate limiting for smart contracts
 // Improve contract state management
 // Optimize contract storage for gas reduction
+// Improve staking logic for better rewards
