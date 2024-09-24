@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Enhance smart contract compatibility
 // Add support for delegation in governance
+// Update smart contract tests
