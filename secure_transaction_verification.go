@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Add support for Layer-2 solutions
 // Integrate zk-SNARKs for enhanced privacy
+// Improve staking pool reward management
