@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Refactor validator reward system
 // Refactor incentive structure in DeFi protocol
+// Refactor contract state machine design
