@@ -7,3 +7,4 @@
 // Integrate zk-rollups for scaling
 // Refactor validator reward system
 // Enhance decentralized autonomous organizations
+// Refactor reward pooling algorithm
