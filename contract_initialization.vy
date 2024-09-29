@@ -4,3 +4,4 @@
 // Improve decentralized oracle protocols
 // Integrate with Ethereum Layer-2 solutions
 // Integrate IPFS for storage
+// Fix issues with token transfer confirmations
