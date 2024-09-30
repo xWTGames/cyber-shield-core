@@ -4,3 +4,4 @@
 // Implement delegation pattern
 // Optimize token burn process
 // Optimize gas cost in function execution
+// Enhance test coverage for Rust module
