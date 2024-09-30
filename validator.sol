@@ -7,3 +7,4 @@
 // Optimize gas usage in contract execution
 // Update testing framework for Solidity
 // Improve token burning mechanism
+// Implement price feed oracles for tokens
