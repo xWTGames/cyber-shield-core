@@ -2,3 +2,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize hashing algorithm
 // Fix edge case in unstaking logic
+// Refactor validator reward system
