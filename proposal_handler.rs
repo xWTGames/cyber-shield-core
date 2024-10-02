@@ -5,3 +5,4 @@
 // Optimize storage for off-chain data
 // Refactor ERC-721 transfer logic
 // Fix type mismatch in Haskell smart contract
+// Add support for NFT marketplaces
