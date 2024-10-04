@@ -4,3 +4,4 @@
 // Integrate staking rewards automation
 // Improve security for token minting contracts
 // Add support for ERC-721A tokens
+// Fix interoperability issues with other blockchains
