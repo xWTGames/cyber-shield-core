@@ -5,3 +5,4 @@
 // Fix memory leak in Rust smart contract
 // Add support for decentralized file storage
 // Add dynamic contract fees
+// Update testing framework for Solidity
