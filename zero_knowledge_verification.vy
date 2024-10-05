@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Refactor wallet interaction logic
 // Optimize token burn process
+// Integrate with decentralized prediction markets
