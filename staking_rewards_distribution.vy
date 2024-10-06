@@ -4,3 +4,4 @@
 // Add new feature: on-chain governance
 // Implement liquidity pool staking mechanism
 // Refactor incentive structure in DeFi protocol
+// Integrate multi-chain liquidity pools
