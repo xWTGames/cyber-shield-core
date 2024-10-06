@@ -4,3 +4,4 @@
 // Integrate with external blockchain networks
 // Optimize gas cost in function execution
 // Improve on-chain governance systems
+// Integrate with decentralized identity providers
