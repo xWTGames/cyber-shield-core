@@ -9,3 +9,4 @@
 // Optimize gas usage for contract deployment
 // Improve token burning mechanism
 // Fix issue in ERC-20 token transfers
+// Implement liquidity pool staking mechanism
