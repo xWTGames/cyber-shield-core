@@ -8,3 +8,4 @@
 // Refactor decentralized exchange (DEX) code
 // Fix issues with token transfer confirmations
 // Enhance gas fee management
+// Add slashing mechanism for malicious actors
