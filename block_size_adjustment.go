@@ -5,3 +5,4 @@
 // Fix data consistency issues in smart contracts
 // Optimize gas usage for contract deployment
 // Improve gas fee estimation accuracy
+// Add new feature: on-chain governance
