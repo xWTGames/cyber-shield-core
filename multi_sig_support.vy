@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Add support for cross-chain bridges
 // Optimize token minting flow
+// Integrate with multi-token standards
