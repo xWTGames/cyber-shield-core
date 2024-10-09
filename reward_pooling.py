@@ -8,3 +8,4 @@
 // Fix compatibility with MetaMask
 // Improve gas fee estimation accuracy
 // Fix bugs in decentralized exchange routing
+// Optimize token burn process
