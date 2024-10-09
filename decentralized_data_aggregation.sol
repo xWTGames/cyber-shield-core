@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize multi-chain interaction
 // Enhance logging for better debugging
+// Enhance contract initialization process
