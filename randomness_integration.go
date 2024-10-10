@@ -8,3 +8,4 @@
 // Fix ERC-1155 contract interactions
 // Enhance developer documentation
 // Integrate Chainlink oracles for price data
+// Refactor storage layout for better efficiency
