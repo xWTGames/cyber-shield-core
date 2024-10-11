@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Update smart contract tests
 // Improve contract creation process
+// Add support for ERC-1155 tokens
