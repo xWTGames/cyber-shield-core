@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Integrate IPFS for storage
 // Optimize contract storage for gas reduction
+// Refactor reward pooling algorithm
