@@ -5,3 +5,4 @@
 // Add automated smart contract testing
 // Add governance proposal expiration feature
 // Integrate with external DeFi protocols
+// Implement zero-knowledge proof (ZKP) support
