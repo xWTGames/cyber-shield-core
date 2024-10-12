@@ -4,3 +4,4 @@
 // Implement on-chain identity verification
 // Fix ERC-721 contract issues with transfers
 // Enhance governance contract flexibility
+// Add support for cross-chain bridges
