@@ -5,3 +5,4 @@
 // Update smart contract tests
 // Add dynamic contract fees
 // Fix race condition in staking pool
+// Implement liquidity pool staking mechanism
