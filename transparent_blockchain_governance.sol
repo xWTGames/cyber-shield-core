@@ -4,3 +4,4 @@
 // Improve multi-chain contract deployment
 // Add support for ERC-721A tokens
 // Fix wallet interaction issues in DeFi protocols
+// Add multi-sig wallet functionality
