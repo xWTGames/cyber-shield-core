@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Enhance smart contract compatibility
 // Optimize oracle data fetching mechanism
+// Update smart contract tests
