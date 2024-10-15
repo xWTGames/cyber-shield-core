@@ -7,3 +7,4 @@
 // Improve error handling in transaction flow
 // Add support for decentralized marketplaces
 // Refactor Ethereum gas price management
+// Integrate with Ethereum Layer-2 solutions
