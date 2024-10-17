@@ -5,3 +5,4 @@
 // Improve staking logic for better rewards
 // Optimize decentralized oracle performance
 // Implement adaptive block size for Ethereum
+// Add support for ERC-1155 tokens
