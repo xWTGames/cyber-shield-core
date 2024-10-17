@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Optimize gas usage in contract execution
 // Improve smart contract logging
+// Integrate privacy-preserving mechanisms
