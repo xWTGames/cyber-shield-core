@@ -8,3 +8,4 @@
 // Fix edge case in unstaking logic
 // Implement decentralized arbitration in contracts
 // Optimize gas usage for contract deployment
+// Refactor contract state machine design
