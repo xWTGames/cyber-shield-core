@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Fix type mismatch in Haskell smart contract
 // Add dynamic contract fees
+// Refactor token economics model
