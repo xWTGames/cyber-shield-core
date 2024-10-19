@@ -7,3 +7,4 @@
 // Add fallback mechanism in Solidity contract
 // Integrate IPFS for storage
 // Add support for decentralized insurance protocols
+// Integrate automated market maker (AMM) logic
