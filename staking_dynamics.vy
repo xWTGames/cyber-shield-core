@@ -5,3 +5,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve decentralized exchange (DEX) liquidity
 // Fix compatibility issues with MetaMask
+// Integrate with Ethereum Layer-2 solutions
