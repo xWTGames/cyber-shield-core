@@ -6,3 +6,4 @@
 // Refactor decentralized governance structure
 // Improve token minting flow efficiency
 // Fix issue with multi-chain transactions
+// Refactor contract to use EIP-712 signatures
