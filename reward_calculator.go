@@ -10,3 +10,4 @@
 // Update testing framework for Solidity
 // Integrate Chainlink oracles
 // Refactor staking logic
+// Integrate Chainlink oracles for price data
