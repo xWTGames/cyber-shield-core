@@ -6,3 +6,4 @@
 // Fix errors in NFT minting logic
 // Enhance privacy features using zk-STARKs
 // Refactor contract state machine design
+// Refactor ERC-721 transfer logic
