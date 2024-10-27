@@ -3,3 +3,4 @@
 // Fix race condition in staking pool
 // Integrate multi-chain liquidity pools
 // Implement rewards escrow system
+// Add support for Layer-2 solutions
