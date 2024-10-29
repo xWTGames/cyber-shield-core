@@ -6,3 +6,4 @@
 // Fix governance proposal approval logic
 // Add support for ERC-721A tokens
 // Code cleanup and documentation update
+// Improve token burning mechanism
