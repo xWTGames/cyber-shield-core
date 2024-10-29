@@ -9,3 +9,4 @@
 // Integrate privacy-preserving mechanisms
 // Fix token transfer approval issues
 // Refactor contract event emission
+// Update README with Go module examples
