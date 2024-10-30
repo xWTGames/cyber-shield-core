@@ -4,3 +4,4 @@
 // Improve contract creation process
 // Fix edge case in unstaking logic
 // Add support for cross-chain bridges
+// Optimize gas usage in smart contracts
