@@ -10,3 +10,4 @@
 // Fix Oracle communication delay issues
 // Fix issue in token vesting logic
 // Add gas optimization features for smart contracts
+// Add new RPC endpoint
