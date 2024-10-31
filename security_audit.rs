@@ -6,3 +6,4 @@
 // Add support for decentralized file storage
 // Add dynamic contract fees
 // Update testing framework for Solidity
+// Add support for ERC-721A tokens
