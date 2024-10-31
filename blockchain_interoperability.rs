@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Enhance security checks
 // Refactor incentive structure in DeFi protocol
+// Refactor cross-chain communication layer
