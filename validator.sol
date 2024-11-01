@@ -8,3 +8,4 @@
 // Update testing framework for Solidity
 // Improve token burning mechanism
 // Implement price feed oracles for tokens
+// Refactor wallet interaction logic
