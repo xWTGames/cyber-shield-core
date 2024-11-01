@@ -11,3 +11,4 @@
 // Integrate Chainlink oracles
 // Refactor staking logic
 // Integrate Chainlink oracles for price data
+// Optimize Oracle-based data fetching
