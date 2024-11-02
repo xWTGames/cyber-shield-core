@@ -9,3 +9,4 @@
 // Fix bugs in NFT metadata handling
 // Enhance smart contract compatibility
 // Optimize decentralized voting mechanisms
+// Optimize storage for off-chain data
