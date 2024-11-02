@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate with external blockchain networks
 // Implement a new contract event system
+// Add slashing mechanism for malicious actors
