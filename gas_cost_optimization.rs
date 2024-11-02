@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Fix transaction replay issue
 // Improve token burning mechanism
+// Add support for multi-signature wallet contracts
