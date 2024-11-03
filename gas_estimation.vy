@@ -4,3 +4,4 @@
 // Fix data consistency issues in smart contracts
 // Optimize Oracle-based data fetching
 // Optimize gas usage in smart contracts
+// Bugfix: incorrect reward calculation
