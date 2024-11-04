@@ -3,3 +3,4 @@
 // Refactor governance proposal logic
 // Add native support for staking rewards
 // Add automated smart contract testing
+// Fix contract reentrancy issues
