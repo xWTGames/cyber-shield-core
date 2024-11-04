@@ -4,3 +4,4 @@
 // Refactor decentralized governance structure
 // Improve contract auditing tools
 // Improve decentralized identity (DID) systems
+// Add support for multiple consensus mechanisms
