@@ -6,3 +6,4 @@
 // Improve token burning mechanism
 // Add support for multi-signature wallet contracts
 // Refactor wallet interaction logic
+// Add unit tests for staking module
