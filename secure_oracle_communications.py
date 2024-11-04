@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Add dynamic contract fees
 // Fix issues with ERC-20 token approvals
+// Update README with Go module examples
