@@ -4,3 +4,4 @@
 // Optimize proof-of-stake validation
 // Refactor staking logic
 // Fix issue in ERC-20 token transfers
+// Add support for delegation in governance
