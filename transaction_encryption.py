@@ -3,3 +3,4 @@
 // Integrate decentralized oracles for data feeds
 // Add batch processing for transactions
 // Improve token burning mechanism
+// Add support for decentralized insurance protocols
