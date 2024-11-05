@@ -4,3 +4,4 @@
 // Enhance smart contract compatibility
 // Add support for delegation in governance
 // Update smart contract tests
+// Improve smart contract code modularity
