@@ -4,3 +4,4 @@
 // Fix errors in contract interaction with wallets
 // Implement a new contract event system
 // Refactor incentive structure in DeFi protocol
+// Implement liquidity pool staking mechanism
