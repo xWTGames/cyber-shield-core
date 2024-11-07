@@ -6,3 +6,4 @@
 // Integrate IPFS for storage
 // Fix issues with token transfer confirmations
 // Improve gas estimation for transactions
+// Code cleanup and documentation update
