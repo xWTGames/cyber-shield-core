@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix oracle data delays in decentralized apps
 // Refactor smart contract testing framework
+// Add governance proposal expiration feature
