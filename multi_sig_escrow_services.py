@@ -5,3 +5,4 @@
 // Integrate chain-agnostic oracles
 // Add support for multi-signature wallet contracts
 // Fix transaction replay issue
+// Add support for Layer-2 solutions
