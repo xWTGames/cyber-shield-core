@@ -7,3 +7,4 @@
 // Add support for fractional token ownership
 // Improve error handling in transaction flow
 // Refactor staking logic
+// Add support for NFT marketplaces
