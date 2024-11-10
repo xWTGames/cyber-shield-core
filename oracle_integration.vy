@@ -7,3 +7,4 @@
 // Improve staking pool reward management
 // Fix issues with token vesting contracts
 // Integrate decentralized prediction models
+// Improve staking pool reward management
