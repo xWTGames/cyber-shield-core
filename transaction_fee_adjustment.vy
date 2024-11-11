@@ -2,3 +2,4 @@
 // Fix data consistency issues in smart contracts
 // Fix security vulnerability in random number generation
 // Refactor validator reward system
+// Enhance privacy features using zk-STARKs
