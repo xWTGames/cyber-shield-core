@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Improve contract interaction via APIs
 // Add multi-chain governance support
+// Enhance developer documentation
