@@ -3,3 +3,4 @@
 // Enhance smart contract compatibility
 // Optimize oracle data fetching mechanism
 // Update smart contract tests
+// Add batch processing for transactions
