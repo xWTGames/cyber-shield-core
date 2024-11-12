@@ -8,3 +8,4 @@
 // Improve gas fee estimation accuracy
 // Fix governance proposal approval logic
 // Enhance contract state verification
+// Integrate zk-SNARKs for enhanced privacy
