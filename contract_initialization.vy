@@ -7,3 +7,4 @@
 // Fix issues with token transfer confirmations
 // Improve gas estimation for transactions
 // Code cleanup and documentation update
+// Fix token transfer approval issues
