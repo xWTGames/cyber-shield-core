@@ -10,3 +10,4 @@
 // Optimize gas usage for contract deployment
 // Refactor contract state machine design
 // Integrate privacy-enhancing smart contracts
+// Integrate Chainlink oracles for price data
