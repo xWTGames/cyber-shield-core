@@ -9,3 +9,4 @@
 // Fix deserialization bug in Haskell code
 // Add automated token buyback mechanism
 // Add unit tests for staking module
+// Refactor oracle interaction logic
