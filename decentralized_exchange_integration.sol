@@ -3,3 +3,4 @@
 // Improve contract creation process
 // Improve cross-chain asset management
 // Improve staking pool reward management
+// Enhance contract initialization process
