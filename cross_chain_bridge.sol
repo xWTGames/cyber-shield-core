@@ -7,3 +7,4 @@
 // Enhance governance contract flexibility
 // Refactor voting mechanism
 // Enhance contract initialization process
+// Fix errors in NFT minting logic
