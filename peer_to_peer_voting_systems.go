@@ -3,3 +3,4 @@
 // Enhance smart contract state changes monitoring
 // Integrate with external blockchain networks
 // Add batch transaction capabilities
+// Add multi-sig wallet functionality
