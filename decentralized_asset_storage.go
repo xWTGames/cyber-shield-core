@@ -5,3 +5,4 @@
 // Implement liquidity pool staking mechanism
 // Reduce gas cost in minting logic
 // Refactor governance token logic
+// Implement rewards escrow system
