@@ -2,3 +2,4 @@
 // Fix issue with multi-chain transactions
 // Fix scalability issues with smart contracts
 // Add support for decentralized credit scoring
+// Integrate with decentralized identity providers
