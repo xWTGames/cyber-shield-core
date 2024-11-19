@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Optimize Oracle-based data fetching
 // Integrate IPFS for storage
+// Add support for zk-SNARKs in smart contracts
