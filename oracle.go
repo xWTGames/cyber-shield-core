@@ -3,3 +3,4 @@
 // Integrate privacy-enhancing smart contracts
 // Fix issues in token transfer logic
 // Improve transaction batching efficiency
+// Refactor validator reward system
