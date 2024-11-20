@@ -6,3 +6,4 @@
 // Add support for decentralized auctions
 // Optimize proof-of-stake validation
 // Improve contract state management
+// Improve gas estimation for transactions
