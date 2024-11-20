@@ -2,3 +2,4 @@
 // Enhance smart contract upgradeability
 // Add support for ERC-1155 tokens
 // Fix governance proposal approval logic
+// Refactor decentralized exchange (DEX) code
