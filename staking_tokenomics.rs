@@ -3,3 +3,4 @@
 // Refactor validator reward system
 // Optimize token minting flow
 // Optimize hashing algorithm
+// Add native support for staking mechanisms
