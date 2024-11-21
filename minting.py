@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Refactor ERC-721 transfer logic
 // Improve contract modularity
+// Improve smart contract code modularity
