@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Implement cross-chain bridge
 // Fix governance proposal approval logic
+// Fix issue with multi-chain transactions
