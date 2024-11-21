@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Refactor oracle interaction logic
 // Enhance contract event handling
+// Add governance proposal expiration feature
