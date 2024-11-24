@@ -4,3 +4,4 @@
 // Fix issues in multi-token smart contracts
 // Add support for ERC-721A tokens
 // Improve gas estimation for transactions
+// Enhance developer documentation
