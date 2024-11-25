@@ -6,3 +6,4 @@
 // Add security checks for contract deployment
 // Implement delegation pattern
 // Optimize storage for off-chain data
+// Improve staking logic for better rewards
