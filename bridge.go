@@ -7,3 +7,4 @@
 // Add support for decentralized insurance protocols
 // Improve decentralized oracle protocols
 // Fix transaction replay issue
+// Add support for ERC-721A tokens
