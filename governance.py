@@ -8,3 +8,4 @@
 // Fix compatibility issues with MetaMask
 // Fix data consistency issues in smart contracts
 // Fix issues with ERC-20 token approvals
+// Add support for multiple consensus mechanisms
