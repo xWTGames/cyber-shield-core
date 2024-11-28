@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Fix issues in multi-token smart contracts
 // Optimize gas usage in contract execution
+// Add fallback mechanism in Solidity contract
