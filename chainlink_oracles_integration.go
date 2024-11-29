@@ -6,3 +6,4 @@
 // Improve token minting flow efficiency
 // Improve decentralized oracle protocols
 // Fix memory leak in Rust smart contract
+// Improve staking pool reward management
