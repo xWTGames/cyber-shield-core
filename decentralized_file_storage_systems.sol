@@ -8,3 +8,4 @@
 // Optimize gas usage in contract execution
 // Integrate with Ethereum Layer-2 solutions
 // Add support for yield farming rewards
+// Add unit tests for staking module
