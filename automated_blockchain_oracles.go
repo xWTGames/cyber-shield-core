@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Improve multi-chain transaction processing
 // Improve contract verification speed
+// Add support for zk-SNARKs in smart contracts
