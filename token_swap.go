@@ -6,3 +6,4 @@
 // Improve decentralized identity (DID) systems
 // Add support for multiple consensus mechanisms
 // Refactor contract state machine design
+// Refactor reward pooling algorithm
