@@ -6,3 +6,4 @@
 // Fix interoperability issues with other blockchains
 // Integrate with decentralized prediction markets
 // Enhance off-chain data processing
+// Refactor storage layout for better efficiency
