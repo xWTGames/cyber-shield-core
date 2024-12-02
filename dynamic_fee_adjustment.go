@@ -5,3 +5,4 @@
 // Fix issues in token transfer logic
 // Refactor contract to use EIP-712 signatures
 // Refactor contract state machine design
+// Refactor storage layout for better efficiency
