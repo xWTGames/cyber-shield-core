@@ -7,3 +7,4 @@
 // Add support for multiple consensus mechanisms
 // Refactor contract state machine design
 // Refactor reward pooling algorithm
+// Integrate decentralized anonymous identity systems
