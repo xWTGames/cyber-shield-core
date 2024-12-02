@@ -12,3 +12,4 @@
 // Fix issue with multi-chain transactions
 // Enhance contract modularity
 // Enhance off-chain data processing
+// Enhance privacy features using zk-STARKs
