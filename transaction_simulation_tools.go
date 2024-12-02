@@ -2,3 +2,4 @@
 // Refactor governance proposal logic
 // Improve cross-chain asset management
 // Implement cross-platform contract compatibility
+// Improve error handling in transaction flow
