@@ -3,3 +3,4 @@
 // Enhance gas fee management
 // Update testing framework for Solidity
 // Improve multi-chain transaction processing
+// Fix governance proposal approval logic
