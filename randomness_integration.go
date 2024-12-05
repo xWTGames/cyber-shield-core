@@ -9,3 +9,4 @@
 // Enhance developer documentation
 // Integrate Chainlink oracles for price data
 // Refactor storage layout for better efficiency
+// Add support for ERC-1155 tokens
