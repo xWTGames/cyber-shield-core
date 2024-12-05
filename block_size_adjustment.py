@@ -7,3 +7,4 @@
 // Code cleanup and documentation update
 // Add multi-sig wallet functionality
 // Optimize proof-of-stake validation
+// Fix issue in ERC-20 token transfers
