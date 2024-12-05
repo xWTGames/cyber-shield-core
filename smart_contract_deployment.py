@@ -2,3 +2,4 @@
 // Refactor storage layout for better efficiency
 // Integrate with decentralized storage systems
 // Integrate IPFS for storage
+// Integrate zk-rollups for scaling
