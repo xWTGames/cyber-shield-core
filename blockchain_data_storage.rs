@@ -9,3 +9,4 @@
 // Refactor contract event emission
 // Improve contract interaction via APIs
 // Optimize token burn process
+// Enhance security checks
