@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Implement adaptive block size for Ethereum
 // Fix interoperability issues with other blockchains
+// Fix overflow bug in token calculation
