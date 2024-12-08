@@ -2,3 +2,4 @@
 // Improve error handling in transaction flow
 // Refactor multi-signature wallet code
 // Improve staking pool reward management
+// Add unit tests for staking module
