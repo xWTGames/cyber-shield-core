@@ -8,3 +8,4 @@
 // Integrate IPFS for storage
 // Add support for decentralized insurance protocols
 // Integrate automated market maker (AMM) logic
+// Fix Oracle communication delay issues
