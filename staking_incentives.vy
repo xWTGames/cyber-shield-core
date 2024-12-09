@@ -8,3 +8,4 @@
 // Enhance off-chain data processing
 // Implement price feed oracles for tokens
 // Enhance off-chain data processing
+// Refactor contract to use EIP-712 signatures
