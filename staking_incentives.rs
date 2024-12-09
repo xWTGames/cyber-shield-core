@@ -9,3 +9,4 @@
 // Add gas optimization features for smart contracts
 // Implement liquidity pool staking mechanism
 // Improve staking pool reward management
+// Add new feature: on-chain governance
