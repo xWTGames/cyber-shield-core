@@ -6,3 +6,4 @@
 // Implement rewards escrow system
 // Fix bugs in multi-token systems
 // Enhance smart contract audit tools
+// Add native support for staking rewards
