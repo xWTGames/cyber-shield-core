@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Optimize token withdrawal logic
 // Fix security vulnerability in random number generation
+// Add governance proposal expiration feature
