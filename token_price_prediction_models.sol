@@ -4,3 +4,4 @@
 // Integrate flash loan functionality
 // Enhance developer documentation
 // Fix issues with token vesting contracts
+// Refactor contract to use EIP-712 signatures
