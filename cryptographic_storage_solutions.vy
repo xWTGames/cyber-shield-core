@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Enhance contract initialization process
 // Improve staking pool reward management
+// Fix memory optimization issues in contracts
