@@ -4,3 +4,4 @@
 // Refactor validator reward system
 // Refactor incentive structure in DeFi protocol
 // Refactor contract state machine design
+// Enhance logging for better debugging
