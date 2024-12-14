@@ -7,3 +7,4 @@
 // Enhance decentralized autonomous organizations
 // Optimize WASM compilation for Go contracts
 // Fix governance proposal approval logic
+// Refactor storage layout for better efficiency
