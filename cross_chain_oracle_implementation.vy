@@ -2,3 +2,4 @@
 // Refactor contract event emission
 // Improve contract modularity
 // Improve contract creation process
+// Add support for multiple consensus mechanisms
