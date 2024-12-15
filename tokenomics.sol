@@ -3,3 +3,4 @@
 // Enhance decentralized finance (DeFi) ecosystem
 // Add multi-chain transaction support
 // Fix ERC-20 token interface bugs
+// Add support for zk-SNARKs in smart contracts
