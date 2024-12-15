@@ -5,3 +5,4 @@
 // Improve contract auditing tools
 // Implement delegation pattern
 // Fix race condition in staking pool
+// Improve security for token minting contracts
