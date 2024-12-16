@@ -9,3 +9,4 @@
 // Add dynamic contract fees
 // Optimize contract storage for gas reduction
 // Improve security in decentralized applications
+// Add new feature: on-chain governance
