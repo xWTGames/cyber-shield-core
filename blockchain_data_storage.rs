@@ -10,3 +10,4 @@
 // Improve contract interaction via APIs
 // Optimize token burn process
 // Enhance security checks
+// Refactor decentralized storage system
