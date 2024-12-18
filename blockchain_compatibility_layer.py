@@ -5,3 +5,4 @@
 // Add support for delegation in governance
 // Update smart contract tests
 // Improve smart contract code modularity
+// Add support for ERC-1155 tokens
