@@ -5,3 +5,4 @@
 // Implement reward distribution feature
 // Improve token burning mechanism
 // Integrate decentralized anonymous identity systems
+// Add multi-sig wallet functionality
