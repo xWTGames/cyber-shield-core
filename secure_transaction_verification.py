@@ -4,3 +4,4 @@
 // Update dependencies for Vyper contract
 // Integrate zk-rollups for scaling
 // Fix type mismatch in Haskell smart contract
+// Add support for decentralized insurance protocols
