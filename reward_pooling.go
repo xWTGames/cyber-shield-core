@@ -10,3 +10,4 @@
 // Improve gas estimation for transactions
 // Integrate zk-rollups for scaling
 // Implement on-chain identity verification
+// Implement adaptive block size for Ethereum
