@@ -2,3 +2,4 @@
 // Fix bugs in NFT metadata handling
 // Integrate with decentralized identity providers
 // Refactor cross-chain communication layer
+// Integrate Chainlink VRF for randomness
