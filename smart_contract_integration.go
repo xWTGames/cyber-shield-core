@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Implement contract function batching
 // Integrate IPFS for storage
+// Fix compatibility issues with major wallets
