@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Refactor incentive structure in DeFi protocol
 // Add multi-sig wallet functionality
+// Add batch transaction capabilities
