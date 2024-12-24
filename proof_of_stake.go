@@ -6,3 +6,4 @@
 // Add support for ERC-1155 tokens
 // Optimize decentralized application performance
 // Improve scalability for smart contract platforms
+// Fix race condition in staking pool
