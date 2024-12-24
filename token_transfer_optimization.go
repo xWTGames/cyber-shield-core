@@ -5,3 +5,4 @@
 // Integrate decentralized prediction models
 // Add multi-sig wallet functionality
 // Integrate IPFS for storage
+// Add gas optimization features for smart contracts
