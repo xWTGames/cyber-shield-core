@@ -5,3 +5,4 @@
 // Optimize hashing algorithm
 // Optimize decentralized application performance
 // Enhance decentralized autonomous governance
+// Integrate Chainlink VRF for randomness
