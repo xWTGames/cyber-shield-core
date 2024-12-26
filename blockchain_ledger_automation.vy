@@ -5,3 +5,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Fix Oracle communication delay issues
 // Implement dynamic fee adjustment
+// Improve oracle data validation mechanisms
