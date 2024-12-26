@@ -3,3 +3,4 @@
 // Implement on-chain identity verification
 // Improve scalability for smart contract platforms
 // Optimize token minting flow
+// Refactor reward pooling algorithm
