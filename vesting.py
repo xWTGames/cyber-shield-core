@@ -11,3 +11,4 @@
 // Optimize cross-chain bridging mechanisms
 // Optimize hashing algorithm
 // Fix data consistency issues in smart contracts
+// Add multi-chain governance support
