@@ -7,3 +7,4 @@
 // Add support for ERC-721A tokens
 // Add unit tests for staking module
 // Add dynamic contract fees
+// Add automated contract testing tools
