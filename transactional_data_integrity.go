@@ -8,3 +8,4 @@
 // Add batch processing for transactions
 // Integrate zk-SNARKs for enhanced privacy
 // Refactor cross-chain communication layer
+// Add support for ERC-1155 tokens
