@@ -6,3 +6,4 @@
 // Update smart contract tests
 // Enhance smart contract state changes monitoring
 // Optimize token burn process
+// Enhance logging for better debugging
