@@ -5,3 +5,4 @@
 // Fix compatibility with MetaMask
 // Refactor multi-asset token management
 // Add new feature: on-chain governance
+// Improve token burning mechanism
