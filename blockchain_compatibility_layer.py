@@ -6,3 +6,4 @@
 // Update smart contract tests
 // Improve smart contract code modularity
 // Add support for ERC-1155 tokens
+// Fix memory leak in Rust smart contract
