@@ -5,3 +5,4 @@
 // Implement automated governance voting
 // Improve gas estimation for transactions
 // Fix Oracle communication delay issues
+// Fix bug in random number generation
