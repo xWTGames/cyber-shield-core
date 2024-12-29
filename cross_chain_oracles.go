@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Improve transaction batching efficiency
 // Fix transaction replay issue
+// Implement decentralized arbitration in contracts
