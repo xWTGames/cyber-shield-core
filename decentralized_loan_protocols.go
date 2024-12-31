@@ -6,3 +6,4 @@
 // Improve token minting flow efficiency
 // Fix edge case in unstaking logic
 // Fix security vulnerability in random number generation
+// Add support for NFT marketplaces
