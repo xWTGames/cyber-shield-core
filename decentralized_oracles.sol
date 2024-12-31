@@ -8,3 +8,4 @@
 // Fix transaction replay issue
 // Add new RPC endpoint
 // Implement contract function batching
+// Add support for decentralized file storage
