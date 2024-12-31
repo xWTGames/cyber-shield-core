@@ -5,3 +5,4 @@
 // Optimize state channels for faster transactions
 // Implement zero-knowledge proof (ZKP) support
 // Implement reward distribution feature
+// Fix governance proposal approval logic
