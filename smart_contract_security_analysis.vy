@@ -3,3 +3,4 @@
 // Add support for multi-signature wallet contracts
 // Improve error handling in transaction flow
 // Fix compatibility issues with major wallets
+// Refactor multi-signature wallet code
