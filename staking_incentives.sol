@@ -8,3 +8,4 @@
 // Fix issues with ERC-20 token approvals
 // Fix issues with token transfer confirmations
 // Fix race condition in staking pool
+// Refactor token distribution mechanism
