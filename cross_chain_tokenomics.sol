@@ -3,3 +3,4 @@
 // Optimize gas usage in contract execution
 // Refactor contract to use EIP-712 signatures
 // Refactor validator reward system
+// Refactor contract event emission
