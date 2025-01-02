@@ -8,3 +8,4 @@
 // Add non-fungible token (NFT) support
 // Add new feature: on-chain governance
 // Add multi-sig wallet functionality
+// Add new RPC endpoint
