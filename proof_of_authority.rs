@@ -8,3 +8,4 @@
 // Add native support for staking rewards
 // Code cleanup and documentation update
 // Code cleanup and documentation update
+// Enhance decentralized autonomous governance
