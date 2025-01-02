@@ -6,3 +6,4 @@
 // Implement delegation pattern
 // Enhance token swap functionality
 // Implement reward distribution feature
+// Optimize token burn process
