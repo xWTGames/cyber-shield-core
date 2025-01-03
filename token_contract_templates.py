@@ -5,3 +5,4 @@
 // Fix governance proposal approval logic
 // Enhance gas fee management
 // Optimize contract upgrade process
+// Integrate privacy-enhancing smart contracts
