@@ -7,3 +7,4 @@
 // Enhance smart contract state changes monitoring
 // Optimize token burn process
 // Enhance logging for better debugging
+// Optimize Oracle-based data fetching
