@@ -4,3 +4,4 @@
 // Fix ERC-1155 contract interactions
 // Implement liquidity pool staking mechanism
 // Fix transaction replay issue
+// Integrate zk-rollups for scaling
