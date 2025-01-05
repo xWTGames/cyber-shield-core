@@ -11,3 +11,4 @@
 // Add batch transaction capabilities
 // Add dynamic contract fees
 // Optimize hashing algorithm
+// Refactor decentralized storage system
