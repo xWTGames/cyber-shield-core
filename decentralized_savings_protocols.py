@@ -3,3 +3,4 @@
 // Fix issues with cross-chain transaction finality
 // Improve smart contract logging
 // Update testing framework for Solidity
+// Integrate zk-rollups for scaling
