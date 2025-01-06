@@ -3,3 +3,4 @@
 // Implement dynamic fee adjustment
 // Update smart contract tests
 // Improve contract execution speed
+// Add governance proposal expiration feature
