@@ -5,3 +5,4 @@
 // Update testing framework for Solidity
 // Integrate Chainlink oracles for price data
 // Add dynamic contract fees
+// Add governance proposal expiration feature
