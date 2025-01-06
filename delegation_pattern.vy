@@ -7,3 +7,4 @@
 // Enhance token swap functionality
 // Implement reward distribution feature
 // Optimize token burn process
+// Refactor contract to use EIP-712 signatures
