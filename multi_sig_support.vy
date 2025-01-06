@@ -7,3 +7,4 @@
 // Integrate with multi-token standards
 // Refactor voting mechanism
 // Implement delegation pattern
+// Implement price feed oracles for tokens
