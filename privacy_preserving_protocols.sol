@@ -5,3 +5,4 @@
 // Improve on-chain governance systems
 // Add support for Layer-2 solutions
 // Fix type mismatch in Haskell smart contract
+// Enhance smart contract upgradeability
