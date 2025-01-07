@@ -2,3 +2,4 @@
 // Improve token minting flow efficiency
 // Refactor wallet interaction logic
 // Enhance smart contract audit tools
+// Add support for decentralized credit scoring
