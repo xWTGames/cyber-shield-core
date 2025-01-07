@@ -9,3 +9,4 @@
 // Refactor staking logic
 // Add automated smart contract testing
 // Enhance token swap functionality
+// Refactor decentralized storage system
