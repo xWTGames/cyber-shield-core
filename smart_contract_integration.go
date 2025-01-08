@@ -6,3 +6,4 @@
 // Implement contract function batching
 // Integrate IPFS for storage
 // Fix compatibility issues with major wallets
+// Add decentralized contract upgradeability
