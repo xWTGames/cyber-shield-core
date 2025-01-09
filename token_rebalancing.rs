@@ -5,3 +5,4 @@
 // Implement time-locked contract execution
 // Improve staking logic for better rewards
 // Integrate decentralized prediction models
+// Integrate staking rewards automation
