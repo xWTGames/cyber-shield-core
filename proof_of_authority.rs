@@ -9,3 +9,4 @@
 // Code cleanup and documentation update
 // Code cleanup and documentation update
 // Enhance decentralized autonomous governance
+// Add batch transaction capabilities
