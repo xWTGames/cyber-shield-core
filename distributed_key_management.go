@@ -6,3 +6,4 @@
 // Add decentralized contract upgradeability
 // Refactor smart contract testing framework
 // Fix Oracle communication delay issues
+// Fix race condition in staking pool
