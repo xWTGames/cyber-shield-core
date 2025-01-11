@@ -4,3 +4,4 @@
 // Enhance smart contract compatibility
 // Fix issues with token vesting contracts
 // Improve token minting flow efficiency
+// Update smart contract tests
