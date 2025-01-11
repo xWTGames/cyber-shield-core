@@ -6,3 +6,4 @@
 // Fix ERC-20 token interface bugs
 // Fix transaction replay issue
 // Integrate staking rewards automation
+// Add support for Layer-2 solutions
