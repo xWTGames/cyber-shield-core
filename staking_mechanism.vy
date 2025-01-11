@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Add support for ERC-721A tokens
 // Implement price feed oracles for tokens
+// Implement cross-chain bridge
