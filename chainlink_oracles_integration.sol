@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Optimize token minting flow
 // Integrate zk-rollups for scaling
+// Implement on-chain identity verification
