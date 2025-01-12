@@ -12,3 +12,4 @@
 // Enhance governance contract flexibility
 // Add decentralized contract upgradeability
 // Integrate decentralized prediction models
+// Refactor voting mechanism
