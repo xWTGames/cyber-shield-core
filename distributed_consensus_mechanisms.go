@@ -3,3 +3,4 @@
 // Add support for Layer-2 solutions
 // Add support for Layer-2 solutions
 // Add support for fractional token ownership
+// Fix issues with contract finalization
