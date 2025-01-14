@@ -4,3 +4,4 @@
 // Refactor reward pooling algorithm
 // Improve scalability for smart contract platforms
 // Improve scalability for smart contract platforms
+// Improve smart contract logging
