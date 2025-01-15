@@ -8,3 +8,4 @@
 // Optimize gas usage for contract deployment
 // Add decentralized contract upgradeability
 // Improve ERC-721 token metadata functionality
+// Add new feature: on-chain governance
