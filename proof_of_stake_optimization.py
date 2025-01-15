@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Enhance governance contract flexibility
 // Refactor ERC-721 transfer logic
+// Fix ERC-721 contract issues with transfers
