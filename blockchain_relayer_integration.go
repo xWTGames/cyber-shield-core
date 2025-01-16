@@ -2,3 +2,4 @@
 // Optimize proof-of-stake validation
 // Refactor staking logic
 // Fix interoperability issues with other blockchains
+// Update smart contract tests
