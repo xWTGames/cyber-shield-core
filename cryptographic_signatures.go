@@ -3,3 +3,4 @@
 // Fix vulnerabilities in staking contracts
 // Improve contract state management
 // Add support for decentralized credit scoring
+// Add batch transaction capabilities
