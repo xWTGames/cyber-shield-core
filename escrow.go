@@ -8,3 +8,4 @@
 // Enhance contract modularity
 // Enhance contract event handling
 // Integrate staking rewards automation
+// Add support for ERC-1155 tokens
