@@ -11,3 +11,4 @@
 // Integrate zk-rollups for scaling
 // Implement on-chain identity verification
 // Implement adaptive block size for Ethereum
+// Implement on-chain identity verification
