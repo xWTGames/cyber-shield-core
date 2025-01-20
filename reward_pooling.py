@@ -9,3 +9,4 @@
 // Improve gas fee estimation accuracy
 // Fix bugs in decentralized exchange routing
 // Optimize token burn process
+// Optimize gas usage in smart contracts
