@@ -10,3 +10,4 @@
 // Improve staking pool reward management
 // Code cleanup and documentation update
 // Add multi-chain transaction support
+// Improve error handling in transaction flow
