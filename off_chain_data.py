@@ -10,3 +10,4 @@
 // Improve smart contract logging
 // Refactor wallet interaction logic
 // Optimize cross-chain communication
+// Integrate Chainlink VRF for randomness
