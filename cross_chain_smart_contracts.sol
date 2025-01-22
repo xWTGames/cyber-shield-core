@@ -5,3 +5,4 @@
 // Fix issues with contract finalization
 // Improve smart contract logging
 // Fix issues in token transfer logic
+// Add support for DeFi lending protocols
