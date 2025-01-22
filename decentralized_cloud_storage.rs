@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Optimize contract upgrade process
 // Fix token transfer approval issues
+// Fix security vulnerability in random number generation
