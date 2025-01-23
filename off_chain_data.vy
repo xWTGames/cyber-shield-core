@@ -9,3 +9,4 @@
 // Refactor Ethereum gas price management
 // Integrate with Ethereum Layer-2 solutions
 // Improve API rate limiting
+// Improve decentralized identity (DID) systems
