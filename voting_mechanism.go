@@ -6,3 +6,4 @@
 // Fix bugs in NFT metadata handling
 // Add support for multiple consensus mechanisms
 // Improve contract auditing tools
+// Fix issues with contract finalization
