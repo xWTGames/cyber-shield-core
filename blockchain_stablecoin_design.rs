@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Improve API rate limiting
 // Fix race condition in staking pool
+// Add support for zk-SNARKs in smart contracts
