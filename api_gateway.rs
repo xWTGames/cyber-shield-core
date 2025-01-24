@@ -7,3 +7,4 @@
 // Fix issues with token vesting contracts
 // Fix compatibility with MetaMask
 // Integrate zk-rollups for scaling
+// Refactor decentralized storage system
