@@ -4,3 +4,4 @@
 // Improve gas fee estimation accuracy
 // Refactor token economics model
 // Fix issues with ERC-20 token approvals
+// Implement delegation pattern
