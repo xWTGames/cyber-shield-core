@@ -2,3 +2,4 @@
 // Enhance logging for better debugging
 // Add fallback mechanism in Solidity contract
 // Fix issues in multi-token smart contracts
+// Refactor reward pooling algorithm
