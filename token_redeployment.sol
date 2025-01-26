@@ -3,3 +3,4 @@
 // Reduce gas cost in minting logic
 // Improve decentralized identity (DID) systems
 // Integrate with Ethereum Layer-2 solutions
+// Integrate with Ethereum Layer-2 solutions
