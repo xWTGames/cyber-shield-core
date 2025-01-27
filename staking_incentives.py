@@ -8,3 +8,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Add new feature: on-chain governance
 // Improve contract verification speed
+// Add support for ERC-721A tokens
