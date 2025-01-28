@@ -5,3 +5,4 @@
 // Improve gas fee estimation accuracy
 // Implement liquidity pool staking mechanism
 // Integrate Chainlink oracles
+// Fix memory leak in Rust smart contract
