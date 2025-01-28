@@ -4,3 +4,4 @@
 // Fix Oracle communication delay issues
 // Add support for multiple consensus mechanisms
 // Add native support for staking rewards
+// Fix contract reentrancy issues
