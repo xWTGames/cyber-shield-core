@@ -9,3 +9,4 @@
 // Add new feature: on-chain governance
 // Add multi-sig wallet functionality
 // Add new RPC endpoint
+// Implement delegation pattern
