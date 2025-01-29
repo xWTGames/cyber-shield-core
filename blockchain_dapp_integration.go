@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Add support for multiple consensus mechanisms
 // Improve DApp transaction flow
+// Add multi-chain transaction support
