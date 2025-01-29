@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Enhance contract modularity
 // Enhance contract modularity
+// Add support for yield farming rewards
