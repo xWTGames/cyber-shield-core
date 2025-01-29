@@ -5,3 +5,4 @@
 // Enhance logging for better debugging
 // Fix overflow bug in token calculation
 // Refactor contract state machine design
+// Fix issues with token vesting contracts
