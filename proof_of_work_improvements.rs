@@ -6,3 +6,4 @@
 // Implement cross-chain bridge
 // Fix governance proposal approval logic
 // Fix issue with multi-chain transactions
+// Refactor storage layout for better efficiency
