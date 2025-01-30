@@ -6,3 +6,4 @@
 // Refactor oracle interaction logic
 // Integrate zk-rollups for scaling
 // Optimize token burn process
+// Add support for ERC-1155 tokens
