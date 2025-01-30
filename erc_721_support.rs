@@ -13,3 +13,4 @@
 // Improve decentralized oracle protocols
 // Fix compatibility issues with major wallets
 // Integrate with external blockchain networks
+// Fix ERC-721 contract issues with transfers
