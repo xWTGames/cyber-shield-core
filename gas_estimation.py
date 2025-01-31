@@ -5,3 +5,4 @@
 // Implement a new contract event system
 // Refactor incentive structure in DeFi protocol
 // Implement liquidity pool staking mechanism
+// Refactor multi-signature wallet code
