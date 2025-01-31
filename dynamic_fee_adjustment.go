@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor contract state machine design
 // Refactor storage layout for better efficiency
+// Improve API rate limiting
