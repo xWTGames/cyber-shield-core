@@ -3,3 +3,4 @@
 // Improve decentralized oracle protocols
 // Implement rewards escrow system
 // Implement delegation pattern
+// Add decentralized contract upgradeability
