@@ -5,3 +5,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate with decentralized prediction markets
 // Add multi-chain governance support
+// Refactor storage layout for better efficiency
