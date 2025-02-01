@@ -5,3 +5,4 @@
 // Add automated token buyback mechanism
 // Improve gas estimation for transactions
 // Add support for ERC-1155 tokens
+// Implement zero-knowledge proof (ZKP) support
