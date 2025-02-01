@@ -4,3 +4,4 @@
 // Add batch processing for transactions
 // Improve token burning mechanism
 // Add support for decentralized insurance protocols
+// Bugfix: incorrect reward calculation
