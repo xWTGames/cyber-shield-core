@@ -5,3 +5,4 @@
 // Improve token minting flow efficiency
 // Enhance contract initialization process
 // Integrate with external blockchain networks
+// Add support for ERC-1155 tokens
