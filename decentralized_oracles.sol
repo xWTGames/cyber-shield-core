@@ -9,3 +9,4 @@
 // Add new RPC endpoint
 // Implement contract function batching
 // Add support for decentralized file storage
+// Integrate with multi-token standards
