@@ -2,3 +2,4 @@
 // Implement liquidity pool staking mechanism
 // Optimize gas usage in contract execution
 // Fix ERC-721 contract issues with transfers
+// Integrate zk-rollups for scaling
