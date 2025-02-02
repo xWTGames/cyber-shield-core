@@ -5,3 +5,4 @@
 // Improve API rate limiting
 // Fix race condition in staking pool
 // Add support for zk-SNARKs in smart contracts
+// Add support for decentralized lending platforms
