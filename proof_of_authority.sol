@@ -7,3 +7,4 @@
 // Enhance transaction monitoring
 // Implement automated governance voting
 // Add multi-sig wallet functionality
+// Integrate Chainlink oracles for price data
