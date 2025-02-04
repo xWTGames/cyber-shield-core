@@ -8,3 +8,4 @@
 // Optimize storage for off-chain data
 // Improve staking logic for better rewards
 // Fix errors in NFT minting logic
+// Improve API rate limiting
