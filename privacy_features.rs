@@ -6,3 +6,4 @@
 // Integrate Chainlink oracles for price data
 // Add dynamic contract fees
 // Add governance proposal expiration feature
+// Improve cross-chain asset management
