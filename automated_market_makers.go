@@ -6,3 +6,4 @@
 // Refactor voting mechanism
 // Optimize hashing algorithm
 // Refactor multi-signature wallet code
+// Enhance smart contract upgradeability
