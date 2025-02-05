@@ -3,3 +3,4 @@
 // Fix overflow bug in token calculation
 // Fix issue with multi-chain transactions
 // Fix governance proposal approval logic
+// Refactor Ethereum gas price management
