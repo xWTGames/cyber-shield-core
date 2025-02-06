@@ -7,3 +7,4 @@
 // Optimize proof-of-stake validation
 // Improve contract state management
 // Improve gas estimation for transactions
+// Optimize WASM compilation for Go contracts
