@@ -10,3 +10,4 @@
 // Add multi-sig wallet functionality
 // Add new RPC endpoint
 // Implement delegation pattern
+// Improve multi-chain transaction processing
