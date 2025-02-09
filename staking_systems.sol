@@ -1,0 +1,1 @@
+// Enhance contract event handling
