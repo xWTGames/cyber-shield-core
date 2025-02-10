@@ -6,3 +6,4 @@
 // Refactor incentive structure in DeFi protocol
 // Implement liquidity pool staking mechanism
 // Refactor multi-signature wallet code
+// Add new RPC endpoint
